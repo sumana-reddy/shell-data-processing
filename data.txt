@@ -1,820 +1,719 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-	<meta charset="UTF-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, minimum-scale=1 maximum-scale=1, user-scalable=0">
-	<meta name="keywords" content="">
-	<meta name="description" content="">
-	<meta name="author" content="Stanley Martin Homes">
-	<meta name="copyright" content="2016">
-	<meta name="robots" content="index, follow">
-	<title>New Single Family Home For Sale - The Sawyer II</title>
-
-	<link rel="stylesheet" href="/build/product.css?cb=1582741906228">
-	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700&display=swap" rel="stylesheet">
-
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/all.js" integrity="sha384-BtvRZcyfv4r0x/phJt9Y9HhnN5ur1Z+kZbKVgzVBAlQZX4jvAuImlIz+bG7TS00a" crossorigin="anonymous"></script>
-
-	<script src="https://www.stanleymartin.com/images/GoogleMaps/1004.js" type="text/javascript"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsqTilpVniPHdism02hJiVt3VFk8yDQsg&callback=initMap" type="text/javascript"></script>
-
-	<script src="/jbcore/juicebox.js"></script>
-
-	<!-- Google Tag Manager -->
-	<script>
-		(function (w, d, s, l, i) {
-			w[l] = w[l] || [];
-			w[l].push({
-				'gtm.start': new Date().getTime(),
-				event: 'gtm.js'
-			});
-			var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s),
-				dl = l != 'dataLayer' ? '&l=' + l : '';
-			j.async = true;
-			j.src =
-				'//www.googletagmanager.com/gtm.js?id=' + i + dl;
-			f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-M6K4P7');
-	</script>
-	<!-- End Google Tag Manager -->
+<meta charset="UTF-8"/>
+<title>A Cinderella Story - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YA7mzgpAMNcAARnMG48AAADL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"A_Cinderella_Story","wgTitle":"A Cinderella Story","wgCurRevisionId":998661352,"wgRevisionId":998661352,"wgArticleId":466340,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Template film date with 1 release date","Official website different in Wikidata and Wikipedia","Use mdy dates from May 2014","2004 films","English-language films","2000s high school films","2004 romantic comedy films",
+"2000s teen comedy films","2000s teen romance films","American films","American high school films","American romantic comedy films","American teen comedy films","American teen romance films","Films based on Charles Perrault's Cinderella","Films based on Cinderella","Films directed by Mark Rosman","Films scored by Christophe Beck","Holiday-themed films","Films about Halloween","Films set in 1994","Films set in 2002","Films set in the San Fernando Valley","Films shot in Los Angeles","Warner Bros. films","A Cinderella Story (film series)"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"A_Cinderella_Story","wgRelevantArticleId":466340,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{
+"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q276415"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter",
+"jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/b/b3/Movie_poster_a_cinderella_story.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/A_Cinderella_Story"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=A_Cinderella_Story&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=A_Cinderella_Story&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/A_Cinderella_Story"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
 </head>
-<body id="main-body" data-spy="scroll" data-target="#sub-navigation-menu" data-offset="112">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-A_Cinderella_Story rootpage-A_Cinderella_Story skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en"><i>A Cinderella Story</i></h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/A_Cinderella_Story_(disambiguation)" class="mw-disambig" title="A Cinderella Story (disambiguation)">A Cinderella Story (disambiguation)</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">2004 American teen romantic comedy film</div>
+<table class="infobox vevent" style="width:22em;font-size:90%;"><tbody><tr><th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size:110%;font-style:italic;">A Cinderella Story</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Movie_poster_a_cinderella_story.jpg" class="image" title="A young man and a young woman standing in front of a white background. The man wears a grey shirt with black sleeves, blue jeans and black sneakers with white shoelaces. The woman, being carried on his back, wears a white tiara, white ballgown and pink-and-white sneakers with white shoelaces. On their image, the text &quot;A Cinderella Story &quot; is written in blue print, with the phrase &quot;Once upon a time... can happen anytime&quot; is written in black print to their right."><img alt="A young man and a young woman standing in front of a white background. The man wears a grey shirt with black sleeves, blue jeans and black sneakers with white shoelaces. The woman, being carried on his back, wears a white tiara, white ballgown and pink-and-white sneakers with white shoelaces. On their image, the text &quot;A Cinderella Story &quot; is written in blue print, with the phrase &quot;Once upon a time... can happen anytime&quot; is written in black print to their right." src="//upload.wikimedia.org/wikipedia/en/b/b3/Movie_poster_a_cinderella_story.jpg" decoding="async" width="220" height="325" class="thumbborder" data-file-width="220" data-file-height="325" /></a><div style="font-size:95%;padding:0.35em 0.35em 0.25em;line-height:1.25em;">Theatrical release poster</div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Directed by</th><td><a href="/wiki/Mark_Rosman" title="Mark Rosman">Mark Rosman</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Produced by</th><td><div class="plainlist">
+<ul><li>Clifford Werber</li>
+<li>Ilyssa Goodman</li>
+<li>Hunt Lowry</li>
+<li>Dylan Sellers</li></ul>
+</div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Written by</th><td>Leigh Dunlap</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Starring</th><td><div class="plainlist">
+<ul><li><a href="/wiki/Hilary_Duff" title="Hilary Duff">Hilary Duff</a></li>
+<li><a href="/wiki/Jennifer_Coolidge" title="Jennifer Coolidge">Jennifer Coolidge</a></li>
+<li><a href="/wiki/Chad_Michael_Murray" title="Chad Michael Murray">Chad Michael Murray</a></li>
+<li><a href="/wiki/Regina_King" title="Regina King">Regina King</a></li></ul>
+</div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Music by</th><td><a href="/wiki/Christophe_Beck" title="Christophe Beck">Christophe Beck</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Cinematography</th><td><a href="/wiki/Anthony_B._Richmond" title="Anthony B. Richmond">Anthony B. Richmond</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Edited by</th><td><a href="/wiki/Cara_Silverman" title="Cara Silverman">Cara Silverman</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">Production<br />company </div></th><td><div style="vertical-align:middle;"><div class="plainlist"><ul><li>Gaylord Films</li><li>Dylan Sellers Productions</li><li>Clifford Werber Productions</li></ul></div></div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Distributed by</th><td><a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="display:inline-block; padding:0.1em 0;line-height:1.2em;white-space:normal;">Release date</div></th><td><div class="plainlist">
+<ul><li>July&#160;16,&#160;2004<span style="display:none">&#160;(<span class="bday dtstart published updated">2004-07-16</span>)</span></li></ul>
+</div></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;"><div style="display:inline-block; padding:0.1em 0;line-height:1.2em;white-space:normal;">Running time</div></th><td>95 minutes</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Country</th><td>United States</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Language</th><td>English</td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Budget</th><td>$19 million<sup id="cite_ref-BoxOfficeMojo_1-0" class="reference"><a href="#cite_note-BoxOfficeMojo-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="white-space:nowrap;padding-right:0.65em;">Box office</th><td>$70.1 million<sup id="cite_ref-BoxOfficeMojo_1-1" class="reference"><a href="#cite_note-BoxOfficeMojo-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
+<p><i><b>A Cinderella Story</b></i> is a 2004 American <a href="/wiki/Teen_film" title="Teen film">teen</a> <a href="/wiki/Romantic_comedy" title="Romantic comedy">romantic comedy</a> film directed by <a href="/wiki/Mark_Rosman" title="Mark Rosman">Mark Rosman</a>, written by Leigh Dunlap and stars <a href="/wiki/Hilary_Duff" title="Hilary Duff">Hilary Duff</a>, <a href="/wiki/Chad_Michael_Murray" title="Chad Michael Murray">Chad Michael Murray</a>, <a href="/wiki/Jennifer_Coolidge" title="Jennifer Coolidge">Jennifer Coolidge</a> and <a href="/wiki/Regina_King" title="Regina King">Regina King</a>. A modernization of the classic <a href="/wiki/Cinderella" title="Cinderella">Cinderella</a> folklore, the film's plot revolves around two Internet <a href="/wiki/Pen_pal" title="Pen pal">pen pals</a> who plan to meet in person at their high school's Halloween dance.
+</p><p>The film was released on July 16, 2004. While it received negative reviews from critics, the film was a box office success, grossing $70 million against its $19 million budget, and inspired four straight-to-video sequels. Over the years, it has developed into a <a href="/wiki/Cult_classic" class="mw-redirect" title="Cult classic">cult classic</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plot"><span class="tocnumber">1</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cast"><span class="tocnumber">2</span> <span class="toctext">Cast</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Production"><span class="tocnumber">3</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Release"><span class="tocnumber">4</span> <span class="toctext">Release</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Reception"><span class="tocnumber">5</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Box_office"><span class="tocnumber">5.1</span> <span class="toctext">Box office</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Accolades"><span class="tocnumber">6</span> <span class="toctext">Accolades</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Soundtrack"><span class="tocnumber">7</span> <span class="toctext">Soundtrack</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Sequels"><span class="tocnumber">8</span> <span class="toctext">Sequels</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=1" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An eighteen-year-old Samantha "Sam" Montgomery is a waitress at a <a href="/wiki/Diner" title="Diner">diner</a> in the <a href="/wiki/San_Fernando_Valley" title="San Fernando Valley">San Fernando Valley</a> run by her stepmother, the vain and greedy Fiona; she received ownership of the diner as well as the family after Sam's widowed father, Harold "Hal", died in the <a href="/wiki/1994_Northridge_earthquake" title="1994 Northridge earthquake">Northridge earthquake</a> eight years before and seemingly left no will. Sam is trying to save money to attend her dream college, <a href="/wiki/Princeton" class="mw-redirect" title="Princeton">Princeton</a>, but is regularly tormented by her stepfamily, which include Fiona and stepdaughter twins Brianna and Gabriella, with Fiona taking Sam's earnings and using the inheritance to spend on luxuries instead of necessities like water. Sam also struggles to fit in at North Valley High School, where she is bullied by the popular clique including head cheerleader and queen bee, Shelby Cummings. At the same time, Sam confides in her online <a href="/wiki/Pen_pal" title="Pen pal">pen pal</a> "Nomad", who shares her dream to attend Princeton to become a writer, her best friend but outcast, Carter Farrell, and finds comfort in the diner staff, including Rhonda the manager, Eleanor, a waitress and Bobby the chef. "Nomad"'s true identity is Austin Ames, the popular yet unhappy  quarterback of the school's football team, The Fighting Frogs, and Shelby's boyfriend who he attempts to break up with. His father, Andy, has arranged for his son to attend the <a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a> with a football scholarship.
+</p><p>"Nomad" and Sam propose to meet at the school's <a href="/wiki/Halloween" title="Halloween">Halloween</a> dance, and she attends wearing a white masquerade mask and wedding dress as "Cinderella." The two share a romantic dance together, but while Sam learns "Nomad" is Austin, the inverse doesn't happen and Sam has to go back to the diner for her midnight shift. She leaves without revealing her identity to Austin, unaware that she's named the homecoming princess along with Austin as the homecoming prince by Mrs. Wells, the principal; she also drops her phone on her way out, which is picked up by Austin. Later, Brianna and Gabriella discover Sam's emails to Austin and realize that Sam is "Cinderella"; after failing to convince Austin that they are "Cinderella", they present the emails to Shelby and convince her that Sam tried to steal Austin from her. To retaliate, Shelby, Brianna and Gabriella perform a mean-spirited skit at a school pep rally, horrifying the school staff as the emails are read aloud and Sam's identity is revealed to Austin. Humiliated and upset that Austin did not stand up for her, Sam leaves in tears.
+</p><p>Like Austin, Sam had been accepted to Princeton, only to be duped by Fiona into believing she was rejected by having a fake rejection letter made in order to keep Sam working at the diner and as her slave. Frustrated with her stepmother's persistent emotional abuse for almost a decade and her school-wide humiliation, Sam stands up to Fiona, quits her job at the diner and moves out to live with Rhonda. Rhonda and the rest of the diner staff also resign, having only stayed for Sam's sake after Hal's death, and the disgusted customers also storm out after witnessing everything.
+</p><p>Before the school's homecoming football game, Sam confronts Austin about his cowardice and lies. Before the final play of the game, he sees Sam leaving the stands and runs to apologize to her, but only after standing up to his father due to not wanting to play football for the rest of his life. She accepts his apology and they share their first kiss, much to the dismay of Shelby, Brianna and Gabriella, as the football team wins. Soon after, Sam finds Hal's will hidden in her childhood fairytale book, which states that all of his money, belongings, the house and diner actually belong to her. Since this leaves her as the rightful and legal owner, Sam sells her stepfamily's possessions for college, and Fiona, who signed the will as a witness but claims to have never seen it before, is arrested by the <a href="/wiki/Los_Angeles_Police_Department" title="Los Angeles Police Department">LAPD</a> and the County <a href="/wiki/Los_Angeles_County_District_Attorney" title="Los Angeles County District Attorney">district attorney</a> for <a href="/wiki/Financial_fraud" class="mw-redirect" title="Financial fraud">financial fraud</a>, swindling Sam out of her inheritance and violating <a href="/wiki/Child_labour_laws" class="mw-redirect" title="Child labour laws">child labour laws</a> by having Sam work long hour despite being a minor.
+</p><p>Sam's stepsisters retrieve her real acceptance letter to Princeton from the garbage, where Fiona "filed" it. Soon, Fiona and her daughters are made to work at the diner to work off all the money they stole from Sam over the years as an alternate and well deserved punishment over prison and juvenile hall by the D.A., and the diner is restored to its former glory before Hal's death by its new owners, Sam and Rhonda. Andy comes to accept his son's desire to attend Princeton and creates a promotion for Princeton alumni at his car wash. Carter soon films a commercial for a new acne medication, causing him to become popular and Shelby to fall in love with him, but after seeing her true colors at the pep rally, Carter rejects her for Astrid, the high school's goth DJ and announcer. Austin and Sam begin a relationship, after Austin gives Sam back her cell phone, and they both end up driving off to Princeton together.
+</p>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=2" title="Edit section: Cast">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r998391716">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col" style="column-width: 30em;">
+<ul><li><a href="/wiki/Hilary_Duff" title="Hilary Duff">Hilary Duff</a> as Samantha "Sam" Montgomery
+<ul><li>Hannah Robinson as young Sam</li></ul></li>
+<li><a href="/wiki/Chad_Michael_Murray" title="Chad Michael Murray">Chad Michael Murray</a> as Austin Ames</li>
+<li><a href="/wiki/Jennifer_Coolidge" title="Jennifer Coolidge">Jennifer Coolidge</a> as Fiona</li>
+<li><a href="/wiki/Regina_King" title="Regina King">Regina King</a> as Rhonda</li>
+<li><a href="/wiki/Dan_Byrd" title="Dan Byrd">Dan Byrd</a> as Carter Farrell</li>
+<li><a href="/wiki/Madeline_Zima" title="Madeline Zima">Madeline Zima</a> as Brianna
+<ul><li>Carlie Westerman as young Brianna</li></ul></li>
+<li>Andrea Avery as Gabriella
+<ul><li>Lilli Babb as young Gabriella</li></ul></li>
+<li><a href="/wiki/Julie_Gonzalo" title="Julie Gonzalo">Julie Gonzalo</a> as Shelby Cummings</li>
+<li><a href="/wiki/Whip_Hubley" title="Whip Hubley">Whip Hubley</a> as Harold "Hal" Montgomery</li>
+<li><a href="/wiki/Brad_Bufanda" title="Brad Bufanda">Brad Bufanda</a> as David</li>
+<li><a href="/wiki/Simon_Helberg" title="Simon Helberg">Simon Helberg</a> as Terry</li>
+<li><a href="/wiki/J._D._Pardo" title="J. D. Pardo">J. D. Pardo</a> as Ryan Hanson</li>
+<li><a href="/wiki/Erica_Hubbard" title="Erica Hubbard">Erica Hubbard</a> as Madison</li>
+<li>Kady Cole as Caitlyn</li>
+<li>Aimee Lynn Chadwick as Astrid</li>
+<li><a href="/wiki/Lin_Shaye" title="Lin Shaye">Lin Shaye</a> as Mrs. Wells</li>
+<li><a href="/wiki/Kevin_Kilner" title="Kevin Kilner">Kevin Kilner</a> as Andy Ames</li>
+<li><a href="/wiki/Mary_Pat_Gleason" title="Mary Pat Gleason">Mary Pat Gleason</a> as Eleanor</li>
+<li><a href="/wiki/Paul_Rodriguez_(actor)" title="Paul Rodriguez (actor)">Paul Rodriguez</a> as Bobby</li>
+<li><a href="/wiki/James_Eckhouse" title="James Eckhouse">James Eckhouse</a> as Mr. Farrell</li>
+<li><a href="/wiki/Jonathan_Slavin" title="Jonathan Slavin">Jonathan Slavin</a> as Vernon</li>
+<li><a href="/wiki/John_Billingsley" title="John Billingsley">John Billingsley</a> as Mr. Rothman</li>
+<li><a href="/wiki/Art_LaFleur" title="Art LaFleur">Art LaFleur</a> as Football Coach</li></ul>
+</div>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=3" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Clifford Werber conceived a modernized adaptation of the <a href="/wiki/Cinderella" title="Cinderella">Cinderella</a> story due to its long-lasting appeal of being "the ultimate wish-fulfillment fantasy" with "an underlying message of empowerment."<sup id="cite_ref-Prodnotes_3-0" class="reference"><a href="#cite_note-Prodnotes-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Release">Release</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=4" title="Edit section: Release">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>A Cinderella Story</i> premiered at <a href="/wiki/Grauman%27s_Chinese_Theatre" title="Grauman&#39;s Chinese Theatre">Grauman's Chinese Theatre</a> on July 10, 2004.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> It premiered in theaters with competition from other products that starred princesses or were fantasy-themed, such as <i><a href="/wiki/The_Prince_%26_Me" title="The Prince &amp; Me">The Prince &amp; Me</a></i> (2004), <i><a href="/wiki/Ella_Enchanted_(film)" title="Ella Enchanted (film)">Ella Enchanted</a></i> (2004) and <i><a href="/wiki/The_Princess_Diaries_2:_Royal_Engagement" title="The Princess Diaries 2: Royal Engagement">The Princess Diaries 2: Royal Engagement</a></i> (2004).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=5" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On <a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a>, the film has an approval rating of 12% based on 104 reviews, with an average rating of 3.6/10. The site's critical consensus reads, "An uninspired, generic updating of the classic fairy tale."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> On <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>, the film has a score on 25 out of 100, based on 30 critics, indicating "generally unfavorable reviews".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Audiences polled by <a href="/wiki/CinemaScore" title="CinemaScore">CinemaScore</a> gave the film an average grade of "A–" on an A+ to F scale.<sup id="cite_ref-CinemaScore_8-0" class="reference"><a href="#cite_note-CinemaScore-8">&#91;8&#93;</a></sup> <a href="/wiki/Roger_Ebert" title="Roger Ebert">Roger Ebert</a> wrote that A Cinderella Story, "is a lame, stupid movie, but Warner Bros. is spending a fortune.. to persuade [young audiences] to see it and recommend it”.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Critics panned the plot as "simple, lazy storytelling"<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> and "a dull rehash of the old girl-meets-boy chestnut."<sup id="cite_ref-FilmThreat_11-0" class="reference"><a href="#cite_note-FilmThreat-11">&#91;11&#93;</a></sup> They noted that its attempts to modernize aspects of the source material was gimmicky and led to illogical plot elements, such as a cell phone being the film's glass slipper and Sam looking too pretty and cheerful for an outcast.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-FilmThreat_11-1" class="reference"><a href="#cite_note-FilmThreat-11">&#91;11&#93;</a></sup><sup id="cite_ref-GlobeandMail_13-0" class="reference"><a href="#cite_note-GlobeandMail-13">&#91;13&#93;</a></sup> Some particularly felt the use of a perfect teenager as a social reject delegitimized the moral of any average person believing in oneself.<sup id="cite_ref-FilmThreat_11-2" class="reference"><a href="#cite_note-FilmThreat-11">&#91;11&#93;</a></sup><sup id="cite_ref-GlobeandMail_13-1" class="reference"><a href="#cite_note-GlobeandMail-13">&#91;13&#93;</a></sup>
+</p><p>The film was nominated for five <a href="/wiki/Teen_Choice_Awards" title="Teen Choice Awards">Teen Choice Awards</a> at the 2005 ceremony, winning the award for Choice Movie Blush Scene, the same year Duff won the <a href="/wiki/Kids_Choice_Awards" class="mw-redirect" title="Kids Choice Awards">Kids Choice Awards</a> for Favorite Movie Actress.
+</p>
+<h3><span class="mw-headline" id="Box_office">Box office</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=6" title="Edit section: Box office">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In its opening weekend, the film grossed $13,623,350 in 2,625 theaters in the United States and Canada, ranking #4 at the box office, behind <i><a href="/wiki/I,_Robot_(film)" title="I, Robot (film)">I, Robot</a></i>, <i><a href="/wiki/Spider-Man_2" title="Spider-Man 2">Spider-Man 2</a></i> and <i><a href="/wiki/Anchorman:_The_Legend_of_Ron_Burgundy" title="Anchorman: The Legend of Ron Burgundy">Anchorman: The Legend of Ron Burgundy</a></i>. By the end of its run, <i>A Cinderella Story</i> grossed $51,438,175 domestically and $18,629,734 internationally, totaling $70,067,909 worldwide.<sup id="cite_ref-BoxOfficeMojo_1-2" class="reference"><a href="#cite_note-BoxOfficeMojo-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=7" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span class="anchor" id="Awards"></span>
+The film won and was nominated for a number of awards throughout 2004–2005.
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th align="left">Year
+</th>
+<th align="left">Ceremony
+</th>
+<th align="left">Category
+</th>
+<th align="left">Recipients
+</th>
+<th align="left">Result
+</th></tr>
+<tr>
+<td rowspan="2">2004
+</td>
+<td rowspan="2"><a href="/wiki/Teen_Choice_Awards" title="Teen Choice Awards">Teen Choice Awards</a>
+</td>
+<td><a href="/wiki/Teen_Choice_Award_for_Choice_Movie_Actress_%E2%80%93_Comedy" title="Teen Choice Award for Choice Movie Actress – Comedy">Choice Movie Actress: Comedy</a>
+</td>
+<td><a href="/wiki/Chad_Michael_Murray" title="Chad Michael Murray">Chad Michael Murray</a>
+</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr>
+<tr>
+<td>Choice Summer Movie
+</td>
+<td>
+</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr>
+<tr>
+<td>2005
+</td>
+<td><a href="/wiki/Kids_Choice_Awards" class="mw-redirect" title="Kids Choice Awards">Kids Choice Awards</a>
+</td>
+<td>Favorite Movie Actress
+</td>
+<td>Hilary Duff
+</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Soundtrack">Soundtrack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=8" title="Edit section: Soundtrack">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/A_Cinderella_Story_(soundtrack)" title="A Cinderella Story (soundtrack)">A Cinderella Story (soundtrack)</a></div>
+<h2><span class="mw-headline" id="Sequels">Sequels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=9" title="Edit section: Sequels">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/A_Cinderella_Story_(film_series)" title="A Cinderella Story (film series)">A Cinderella Story (film series)</a></div>
+<p><i>A Cinderella Story</i> was followed by four <a href="/wiki/Direct-to-video" title="Direct-to-video">direct-to-video</a> sequels, each presenting a separate modern-day version of the <a href="/wiki/Cinderella" title="Cinderella">Cinderella</a> story: The sequels use the themes and situations which also borrow from the Cinderella tale, but do not contain any characters from the first film. Unlike the first film, the sequels also include <a href="/wiki/Musical_film" title="Musical film">musical</a>, <a href="/wiki/Dance_film" title="Dance film">dance</a> and <a href="/wiki/Holiday" title="Holiday">holiday</a> event themes.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Film title</th>
+<th>Year</th>
+<th>Director</th>
+<th>Starring
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Another_Cinderella_Story" title="Another Cinderella Story">Another Cinderella Story</a></i></td>
+<td>2008</td>
+<td rowspan="2"><a href="/wiki/Damon_Santostefano" title="Damon Santostefano">Damon Santostefano</a></td>
+<td><a href="/wiki/Selena_Gomez" title="Selena Gomez">Selena Gomez</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/A_Cinderella_Story:_Once_Upon_a_Song" title="A Cinderella Story: Once Upon a Song">A Cinderella Story: Once Upon a Song</a></i></td>
+<td>2011</td>
+<td><a href="/wiki/Lucy_Hale" title="Lucy Hale">Lucy Hale</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/A_Cinderella_Story:_If_the_Shoe_Fits" title="A Cinderella Story: If the Shoe Fits">A Cinderella Story: If the Shoe Fits</a></i></td>
+<td>2016</td>
+<td rowspan="2">Michelle Johnston</td>
+<td><a href="/wiki/Sofia_Carson" title="Sofia Carson">Sofia Carson</a>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/A_Cinderella_Story:_Christmas_Wish" title="A Cinderella Story: Christmas Wish">A Cinderella Story: Christmas Wish</a></i></td>
+<td>2019</td>
+<td><a href="/wiki/Laura_Marano" title="Laura Marano">Laura Marano</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-BoxOfficeMojo-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-BoxOfficeMojo_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BoxOfficeMojo_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BoxOfficeMojo_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.boxofficemojo.com/movies/?id=cinderellastory.htm">"A Cinderella Story (2004)"</a>. <i><a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111102183022/http://boxofficemojo.com/movies/?id=cinderellastory.htm">Archived</a> from the original on November 2, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">July 27,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Box+Office+Mojo&amp;rft.atitle=A+Cinderella+Story+%282004%29&amp;rft_id=http%3A%2F%2Fwww.boxofficemojo.com%2Fmovies%2F%3Fid%3Dcinderellastory.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFRusso2019" class="citation web cs1">Russo, Gianluca (August 11, 2019). <a rel="nofollow" class="external text" href="https://www.teenvogue.com/story/a-cinderella-story-representation-op-ed">"It's Time For a More Inclusive "Cinderella Story"</a>. <i>Teen Vogue</i>. Condé Nast<span class="reference-accessdate">. Retrieved <span class="nowrap">September 14,</span> 2019</span>. <q>What began in 2004 as a modern retelling of the iconic fairy tale... quickly spiraled into a cult classic yielding a decade and a half of follow-up films with different actors and plots...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Teen+Vogue&amp;rft.atitle=It%27s+Time+For+a+More+Inclusive+%22Cinderella+Story&amp;rft.date=2019-08-11&amp;rft.aulast=Russo&amp;rft.aufirst=Gianluca&amp;rft_id=https%3A%2F%2Fwww.teenvogue.com%2Fstory%2Fa-cinderella-story-representation-op-ed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Prodnotes-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Prodnotes_3-0">^</a></b></span> <span class="reference-text">"A Cinderella Story Production Notes" (2004). <a href="/wiki/Warner_Bros._Pictures" title="Warner Bros. Pictures">Warner Bros. Pictures</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFLyford2004" class="citation web cs1">Lyford, Kathy (July 12, 2004). <a rel="nofollow" class="external text" href="https://variety.com/2004/scene/markets-festivals/if-the-slipper-fits-1117907683/">"If the slipper fits..."</a> <i><a href="/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Variety&amp;rft.atitle=If+the+slipper+fits...&amp;rft.date=2004-07-12&amp;rft.aulast=Lyford&amp;rft.aufirst=Kathy&amp;rft_id=https%3A%2F%2Fvariety.com%2F2004%2Fscene%2Fmarkets-festivals%2Fif-the-slipper-fits-1117907683%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMcNamara2004" class="citation web cs1">McNamara, Mary (August 17, 2004). <a rel="nofollow" class="external text" href="https://www.latimes.com/archives/la-xpm-2004-aug-17-et-mcnamara17-story.html">"A royal gain"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 16,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=A+royal+gain&amp;rft.date=2004-08-17&amp;rft.aulast=McNamara&amp;rft.aufirst=Mary&amp;rft_id=https%3A%2F%2Fwww.latimes.com%2Farchives%2Fla-xpm-2004-aug-17-et-mcnamara17-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.rottentomatoes.com/m/cinderella_story/">"A Cinderella Story"</a>. <i>rottentomatoes.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100903012428/http://www.rottentomatoes.com/m/cinderella_story/">Archived</a> from the original on September 3, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=rottentomatoes.com&amp;rft.atitle=A+Cinderella+Story&amp;rft_id=https%3A%2F%2Fwww.rottentomatoes.com%2Fm%2Fcinderella_story%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.metacritic.com/movie/a-cinderella-story">"A Cinderella Story Reviews"</a>. <i>Metacritic</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171101222101/http://www.metacritic.com/movie/a-cinderella-story">Archived</a> from the original on November 1, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">January 9,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Metacritic&amp;rft.atitle=A+Cinderella+Story+Reviews&amp;rft_id=https%3A%2F%2Fwww.metacritic.com%2Fmovie%2Fa-cinderella-story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-CinemaScore-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-CinemaScore_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://m.cinemascore.com">"CinemaScore"</a>. <i>cinemascore.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cinemascore.com&amp;rft.atitle=CinemaScore&amp;rft_id=https%3A%2F%2Fm.cinemascore.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFValero2004" class="citation web cs1">Valero, Gerardo (July 16, 2004). <a rel="nofollow" class="external text" href="https://www.rogerebert.com/reviews/a-cinderella-story-2004">"A Cinderella Story Movie Review (2004)"</a>. <i>Roger Ebert</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180111134812/https://www.rogerebert.com/reviews/a-cinderella-story-2004">Archived</a> from the original on January 11, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">January 9,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Roger+Ebert&amp;rft.atitle=A+Cinderella+Story+Movie+Review+%282004%29&amp;rft.date=2004-07-16&amp;rft.aulast=Valero&amp;rft.aufirst=Gerardo&amp;rft_id=https%3A%2F%2Fwww.rogerebert.com%2Freviews%2Fa-cinderella-story-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSmith" class="citation web cs1">Smith, Anna. <a rel="nofollow" class="external text" href="https://www.empireonline.com/movies/reviews/cinderella-story-review/">"A Cinderella Story Review"</a>. <i><a href="/wiki/Empire_(film_magazine)" title="Empire (film magazine)">Empire</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Empire&amp;rft.atitle=A+Cinderella+Story+Review&amp;rft.aulast=Smith&amp;rft.aufirst=Anna&amp;rft_id=https%3A%2F%2Fwww.empireonline.com%2Fmovies%2Freviews%2Fcinderella-story-review%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FilmThreat-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-FilmThreat_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FilmThreat_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FilmThreat_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFVonder_Haar2004" class="citation web cs1">Vonder Haar, Pete (July 19, 2004). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20040904081204/https://filmthreat.com/Reviews.asp?Id=6276">"A Cinderella Story"</a>. <i><a href="/wiki/Film_Threat" title="Film Threat">Film Threat</a></i>. Archived from <a rel="nofollow" class="external text" href="https://filmthreat.com/Reviews.asp?Id=6276">the original</a> on September 4, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Film+Threat&amp;rft.atitle=A+Cinderella+Story&amp;rft.date=2004-07-19&amp;rft.aulast=Vonder+Haar&amp;rft.aufirst=Pete&amp;rft_id=https%3A%2F%2Ffilmthreat.com%2FReviews.asp%3FId%3D6276&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHolden2004" class="citation web cs1"><a href="/wiki/Stephen_Holden" title="Stephen Holden">Holden, Stephen</a> (July 16, 2004). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2004/07/16/movies/film-review-shattered-pieces-of-a-glass-slipper-a-san-fernando-valley-cinderella.html">"FILM REVIEW; Shattered Pieces of a Glass Slipper: A San Fernando Valley 'Cinderella<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=FILM+REVIEW%3B+Shattered+Pieces+of+a+Glass+Slipper%3A+A+San+Fernando+Valley+%27Cinderella%27&amp;rft.date=2004-07-16&amp;rft.aulast=Holden&amp;rft.aufirst=Stephen&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2004%2F07%2F16%2Fmovies%2Ffilm-review-shattered-pieces-of-a-glass-slipper-a-san-fernando-valley-cinderella.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+<li id="cite_note-GlobeandMail-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-GlobeandMail_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GlobeandMail_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAnderson2004" class="citation web cs1">Anderson, Jason (July 16, 2004). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20040804213351/https://www.theglobeandmail.com/servlet/ArticleNews/movie/MOVIEREVIEWS/20040716/CINDERELLA16/">"This Cinderella should have stayed home"</a>. <i><a href="/wiki/The_Globe_and_Mail" title="The Globe and Mail">The Globe and Mail</a></i>. Archived from <a rel="nofollow" class="external text" href="https://www.theglobeandmail.com/servlet/ArticleNews/movie/MOVIEREVIEWS/20040716/CINDERELLA16/">the original</a> on August 4, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">November 18,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Globe+and+Mail&amp;rft.atitle=This+Cinderella+should+have+stayed+home&amp;rft.date=2004-07-16&amp;rft.aulast=Anderson&amp;rft.aufirst=Jason&amp;rft_id=https%3A%2F%2Fwww.theglobeandmail.com%2Fservlet%2FArticleNews%2Fmovie%2FMOVIEREVIEWS%2F20040716%2FCINDERELLA16%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA+Cinderella+Story" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/A_Cinderella_Story" class="extiw" title="q:Special:Search/A Cinderella Story">A Cinderella Story</a></b></i></td></tr>
+</tbody></table>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www2.warnerbros.com/acinderellastory/flash.html">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt0356470/"><i>A Cinderella Story</i></a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.tcm.com/tcmdb/title/538035/enwp"><i>A Cinderella Story</i></a> at the <a href="/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.allmovie.com/movie/v288626"><i>A Cinderella Story</i></a> at <a href="/wiki/AllMovie" title="AllMovie">AllMovie</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.boxofficemojo.com/movies/?id=cinderellastory.htm"><i>A Cinderella Story</i></a> at <a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.rottentomatoes.com/m/cinderella_story"><i>A Cinderella Story</i></a> at <a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.metacritic.com/movie/a-cinderella-story"><i>A Cinderella Story</i></a> at <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="A_Cinderella_Story" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:A_Cinderella_Story" title="Template:A Cinderella Story"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:A_Cinderella_Story" title="Template talk:A Cinderella Story"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:A_Cinderella_Story&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="A_Cinderella_Story" style="font-size:114%;margin:0 4em"><a href="/wiki/A_Cinderella_Story_(film_series)" title="A Cinderella Story (film series)"><i>A Cinderella Story</i></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Films</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-selflink selflink">A Cinderella Story</a></i> (2004)</li>
+<li><i><a href="/wiki/Another_Cinderella_Story" title="Another Cinderella Story">Another Cinderella Story</a></i> (2008)</li>
+<li><i><a href="/wiki/A_Cinderella_Story:_Once_Upon_a_Song" title="A Cinderella Story: Once Upon a Song">Once Upon a Song</a></i> (2011)</li>
+<li><i><a href="/wiki/A_Cinderella_Story:_If_the_Shoe_Fits" title="A Cinderella Story: If the Shoe Fits">If the Shoe Fits</a></i> (2016)</li>
+<li><i><a href="/wiki/A_Cinderella_Story:_Christmas_Wish" title="A Cinderella Story: Christmas Wish">Christmas Wish</a></i> (2019)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Soundtracks</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A_Cinderella_Story_(soundtrack)" title="A Cinderella Story (soundtrack)">A Cinderella Story</a></i></li>
+<li><i><a href="/wiki/Another_Cinderella_Story_(soundtrack)" title="Another Cinderella Story (soundtrack)">Another Cinderella Story</a></i></li>
+<li><i><a href="/wiki/A_Cinderella_Story:_Once_Upon_a_Song#Soundtrack" title="A Cinderella Story: Once Upon a Song">Once Upon a Song</a></i></li>
+<li><i><a href="/wiki/A_Cinderella_Story:_If_the_Shoe_Fits#Soundtrack" title="A Cinderella Story: If the Shoe Fits">If the Shoe Fits</a></i></li>
+<li><i><a href="/wiki/A_Cinderella_Story:_Christmas_Wish#Soundtrack" title="A Cinderella Story: Christmas Wish">Christmas Wish</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Songs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Our_Lips_Are_Sealed#Hilary_and_Haylie_Duff_version" title="Our Lips Are Sealed">Our Lips Are Sealed</a>"</li>
+<li>"<a href="/wiki/Tell_Me_Something_I_Don%27t_Know_(Selena_Gomez_song)" title="Tell Me Something I Don&#39;t Know (Selena Gomez song)">Tell Me Something I Don't Know</a>"</li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Films_directed_by_Mark_Rosman" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Mark_Rosman" title="Template:Mark Rosman"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Mark_Rosman" title="Template talk:Mark Rosman"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Mark_Rosman&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Films_directed_by_Mark_Rosman" style="font-size:114%;margin:0 4em">Films directed by <a href="/wiki/Mark_Rosman" title="Mark Rosman">Mark Rosman</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_House_on_Sorority_Row" title="The House on Sorority Row">The House on Sorority Row</a></i> (1983)</li>
+<li><i><a href="/wiki/The_Blue_Yonder" title="The Blue Yonder">The Blue Yonder</a></i> (1985)</li>
+<li><i><a href="/wiki/Spot_Marks_the_X" title="Spot Marks the X">Spot Marks the X</a></i> (1986)</li>
+<li><i><a href="/wiki/Evolver_(film)" title="Evolver (film)">Evolver</a></i> (1995)</li>
+<li><i><a href="/wiki/The_Invader_(1997_film)" title="The Invader (1997 film)">The Invader</a></i> (1997)</li>
+<li><i><a href="/wiki/Life-Size" title="Life-Size">Life-Size</a></i> (2000)</li>
+<li><i><a href="/wiki/Model_Behavior" title="Model Behavior">Model Behavior</a></i> (2000)</li>
+<li><i><a class="mw-selflink selflink">A Cinderella Story</a></i> (2004)</li>
+<li><i><a href="/wiki/The_Perfect_Man_(2005_film)" title="The Perfect Man (2005 film)">The Perfect Man</a></i> (2005)</li>
+<li><i><a href="/wiki/Princess_(2008_film)" title="Princess (2008 film)">Princess</a></i> (2008)</li>
+<li><i><a href="/wiki/Snow_2:_Brain_Freeze" title="Snow 2: Brain Freeze">Snow 2: Brain Freeze</a></i> (2008)</li>
+<li><i><a href="/wiki/William_%26_Kate:_The_Movie" title="William &amp; Kate: The Movie">William &amp; Kate: The Movie</a></i> (2011)</li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="&amp;quot;Cinderella&amp;quot;_by_Charles_Perrault_and_the_Brothers_Grimm" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Cinderella" title="Template:Cinderella"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cinderella" title="Template talk:Cinderella"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cinderella&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="&amp;quot;Cinderella&amp;quot;_by_Charles_Perrault_and_the_Brothers_Grimm" style="font-size:114%;margin:0 4em">"<a href="/wiki/Cinderella" title="Cinderella">Cinderella</a>" by <a href="/wiki/Charles_Perrault" title="Charles Perrault">Charles Perrault</a> and the <a href="/wiki/Brothers_Grimm" title="Brothers Grimm">Brothers Grimm</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Universe" style="font-size:114%;margin:0 4em">Universe</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Characters" scope="row" class="navbox-group" style="width:1%">Characters</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buttons_(pantomime)" title="Buttons (pantomime)">Buttons</a></li>
+<li><a href="/wiki/Cinderella" title="Cinderella">Cinderella</a></li>
+<li><a href="/wiki/Ugly_sisters" title="Ugly sisters">Ugly sisters</a></li>
+<li><a href="/wiki/Fairy_godmother" title="Fairy godmother">Fairy godmother</a></li>
+<li><a href="/wiki/Wicked_stepmother" class="mw-redirect" title="Wicked stepmother">Wicked stepmother</a></li>
+<li><a href="/wiki/Prince_Charming" title="Prince Charming">Prince Charming</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National<br />variation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bawang_Merah_Bawang_Putih" title="Bawang Merah Bawang Putih">Bawang Merah Bawang Putih</a> (Malay and Indonesian)</li>
+<li><a href="/wiki/Beauty_and_Pock_Face" title="Beauty and Pock Face">Beauty and Pock Face</a> (Chinese)</li>
+<li><a href="/wiki/Ch%C5%ABj%C5%8D-hime" title="Chūjō-hime">Chūjō-hime</a> (Japanese)</li>
+<li><a href="/wiki/Fair,_Brown_and_Trembling" title="Fair, Brown and Trembling">Fair, Brown and Trembling</a> (Irish)</li>
+<li><a href="/wiki/Finette_Cendron" title="Finette Cendron">Finette Cendron</a> (French)</li>
+<li><a href="/wiki/The_Green_Knight_(fairy_tale)" title="The Green Knight (fairy tale)">The Green Knight</a> (Danish)</li>
+<li><a href="/wiki/Katie_Woodencloak" title="Katie Woodencloak">Katie Woodencloak</a> (Norwegian)</li>
+<li><a href="/wiki/Kongjwi_and_Patjwi" title="Kongjwi and Patjwi">Kongjwi and Patjwi</a> (Korean)</li>
+<li><i><a href="/wiki/Ochikubo_Monogatari" title="Ochikubo Monogatari">Ochikubo Monogatari</a></i> (Japanese)</li>
+<li>"<a href="/wiki/Rhodopis" title="Rhodopis">Rhodopis</a>" (Greek)</li>
+<li><a href="/wiki/Rushen_Coatie" title="Rushen Coatie">Rushen Coatie</a> (Scottish)</li>
+<li><a href="/wiki/The_Sharp_Grey_Sheep" title="The Sharp Grey Sheep">The Sharp Grey Sheep</a> (Scottish)</li>
+<li><a href="/wiki/The_Story_of_Tam_and_Cam" title="The Story of Tam and Cam">The Story of Tam and Cam</a> (Vietnamese)</li>
+<li><i><a href="/wiki/Sumiyoshi_Monogatari" title="Sumiyoshi Monogatari">Sumiyoshi Monogatari</a></i> (Japanese)</li>
+<li><a href="/wiki/The_True_Bride" title="The True Bride">The True Bride</a> (German)</li>
+<li><a href="/wiki/The_Wonderful_Birch" title="The Wonderful Birch">The Wonderful Birch</a> (Russian)</li>
+<li><a href="/wiki/Ye_Xian" title="Ye Xian">Ye Xian</a> (Chinese)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jacinda_Vidrio" class="mw-redirect" title="Jacinda Vidrio">Jacinda Vidrio</a></li>
+<li><i><a href="/wiki/Catskin" title="Catskin">Catskin</a></i></li>
+<li><i><a href="/wiki/Into_the_Woods" title="Into the Woods">Into the Woods</a></i></li>
+<li><i><a href="/wiki/Into_the_Woods_(film)" title="Into the Woods (film)">Into the Woods</a></i> (2014 film)</li>
+<li><i><a href="/wiki/Politically_Correct_Bedtime_Stories" title="Politically Correct Bedtime Stories">Politically Correct Bedtime Stories</a></i></li>
+<li><a href="/wiki/List_of_Disney%27s_Cinderella_characters" title="List of Disney&#39;s Cinderella characters">Disney's characters</a></li>
+<li><i><a href="/wiki/Stop!_Look!_and_Laugh!" title="Stop! Look! and Laugh!">Stop! Look! and Laugh!</a></i></li>
+<li><i><a href="/wiki/Waltz_Suite_(Prokofiev)" title="Waltz Suite (Prokofiev)">Waltz Suite</a></i></li>
+<li><i><a href="/wiki/Black_Cinderella_Two_Goes_East" title="Black Cinderella Two Goes East">Black Cinderella Two Goes East</a></i></li>
+<li><i><a href="/wiki/Cinderella%27s_Stepsister" title="Cinderella&#39;s Stepsister">Cinderella's Stepsister</a></i></li>
+<li><a href="/wiki/Cinderella_(sports)" title="Cinderella (sports)">Cinderella</a> (sports)</li>
+<li><i><a href="/wiki/Lying_to_Be_Perfect" title="Lying to Be Perfect">Lying to Be Perfect</a></i></li>
+<li><i><a href="/wiki/Cinderella%27s_Eyes" title="Cinderella&#39;s Eyes">Cinderella's Eyes</a></i> (2011)</li>
+<li><i><a href="/wiki/Ralph_Breaks_the_Internet" title="Ralph Breaks the Internet">Ralph Breaks the Internet</a></i> (2018)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Media" style="font-size:114%;margin:0 4em">Media</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Films</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cinderella_(1899_film)" title="Cinderella (1899 film)">Cinderella</a></i> (1899)</li>
+<li><i><a href="/wiki/Cinderella_or_the_Glass_Slipper" title="Cinderella or the Glass Slipper">Cinderella or the Glass Slipper</a></i> (1912)</li>
+<li><i><a href="/wiki/Cinderella_(1914_film)" title="Cinderella (1914 film)">Cinderella</a></i> (1914)</li>
+<li><i><a href="/wiki/A_Lowland_Cinderella" title="A Lowland Cinderella">A Lowland Cinderella</a></i> (1921)</li>
+<li><i><a href="/wiki/A_Kiss_for_Cinderella_(film)" title="A Kiss for Cinderella (film)">A Kiss for Cinderella</a></i> (1925 film)</li>
+<li><i><a href="/wiki/Ella_Cinders_(film)" title="Ella Cinders (film)">Ella Cinders</a></i> (1926)</li>
+<li><i><a href="/wiki/The_Magic_Shoes" title="The Magic Shoes">The Magic Shoes</a></i> (1935)</li>
+<li><i><a href="/wiki/First_Love_(1939_film)" title="First Love (1939 film)">First Love</a></i> (1939)</li>
+<li><i><a href="/wiki/Cinderella_(1947_film)" title="Cinderella (1947 film)">Cinderella</a></i> (1947)</li>
+<li><i><a href="/wiki/The_Glass_Slipper_(film)" title="The Glass Slipper (film)">The Glass Slipper</a></i> (1955)</li>
+<li><i><a href="/wiki/Cinderella_(1955_film)" title="Cinderella (1955 film)">Cinderella</a></i> (1955)</li>
+<li><i><a href="/wiki/Cinderfella" title="Cinderfella">Cinderfella</a></i> (1960)</li>
+<li><i><a href="/wiki/Stop!_Look!_and_Laugh!" title="Stop! Look! and Laugh!">Stop! Look! and Laugh!</a></i> (1960)</li>
+<li><i><a href="/wiki/More_Than_a_Miracle" title="More Than a Miracle">More Than a Miracle</a></i> (1967)</li>
+<li><i><a href="/wiki/T%C5%99i_o%C5%99%C3%AD%C5%A1ky_pro_Popelku" title="Tři oříšky pro Popelku">Tři oříšky pro Popelku</a></i> (1973)</li>
+<li><i><a href="/wiki/The_Slipper_and_the_Rose" title="The Slipper and the Rose">The Slipper and the Rose</a></i> (1976)</li>
+<li><i><a href="/wiki/Cinderella_(1979_film)" title="Cinderella (1979 film)">Cinderella</a></i> (1979)</li>
+<li><i><a href="/wiki/Cinderella_%2780" title="Cinderella &#39;80">Cinderella '80</a></i> (1984)</li>
+<li><i><a href="/wiki/Maid_to_Order" title="Maid to Order">Maid to Order</a></i> (1987)</li>
+<li><i><a href="/wiki/If_the_Shoe_Fits_(film)" title="If the Shoe Fits (film)">If the Shoe Fits</a></i> (1990)</li>
+<li><i><a href="/wiki/Ever_After" title="Ever After">Ever After</a></i> (1998)</li>
+<li><i><a href="/wiki/Ella_Enchanted_(film)" title="Ella Enchanted (film)">Ella Enchanted</a></i> (2004)</li>
+<li><i><a href="/wiki/Cinderella_(2006_film)" title="Cinderella (2006 film)">Cinderella</a></i> (2006)</li>
+<li><i><a href="/wiki/Elle:_A_Modern_Cinderella_Tale" title="Elle: A Modern Cinderella Tale">Elle: A Modern Cinderella Tale</a></i> (2010)</li>
+<li><i><a href="/wiki/Cinderella_(2015_Disney_film)" title="Cinderella (2015 Disney film)">Cinderella</a></i> (2015)</li>
+<li><i><a href="/wiki/Cinderella_the_Cat" title="Cinderella the Cat">Cinderella the Cat</a></i> (2017)</li>
+<li><i><a href="/wiki/Cinderella_(2021_film)" title="Cinderella (2021 film)">Cinderella</a></i> (2021)</li>
+<li><i><a href="/wiki/Sneakerella" title="Sneakerella">Sneakerella</a></i> (2021)</li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/A_Cinderella_Story_(film_series)" title="A Cinderella Story (film series)"><i>A Cinderella Story</i> series</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-selflink selflink">A Cinderella Story</a></i> (2004)</li>
+<li><i><a href="/wiki/Another_Cinderella_Story" title="Another Cinderella Story">Another Cinderella Story</a></i> (2008)</li>
+<li><i><a href="/wiki/A_Cinderella_Story:_Once_Upon_a_Song" title="A Cinderella Story: Once Upon a Song">Once Upon a Song</a></i> (2011)</li>
+<li><i><a href="/wiki/A_Cinderella_Story:_If_the_Shoe_Fits" title="A Cinderella Story: If the Shoe Fits">If the Shoe Fits</a></i> (2016)</li>
+<li><i><a href="/wiki/A_Cinderella_Story:_Christmas_Wish" title="A Cinderella Story: Christmas Wish">Christmas Wish</a></i> (2019)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Animation</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cinderella_Blues" title="Cinderella Blues">Cinderella Blues</a></i> (1931)</li>
+<li><i><a href="/wiki/Poor_Cinderella" title="Poor Cinderella">Poor Cinderella</a></i> (1934)</li>
+<li><i><a href="/wiki/Cinderella_Meets_Fella" title="Cinderella Meets Fella">Cinderella Meets Fella</a></i> (1938)</li>
+<li><i><a href="/wiki/Swing_Shift_Cinderella" title="Swing Shift Cinderella">Swing Shift Cinderella</a></i> (1945)</li>
+<li><i><a href="/wiki/Cinderella_(1950_film)" title="Cinderella (1950 film)">Cinderella</a></i> (1950)</li>
+<li><i><a href="/wiki/Ancient_Fistory" title="Ancient Fistory">Ancient Fistory</a></i> (1953)</li>
+<li><i><a href="/wiki/Se%C3%B1orella_and_the_Glass_Huarache" title="Señorella and the Glass Huarache">Señorella and the Glass Huarache</a></i> (1964)</li>
+<li><i><a href="/wiki/Cinderella_(1979_film)" title="Cinderella (1979 film)">Cinderella</a></i> (1979)</li>
+<li><i><a href="/wiki/The_Tender_Tale_of_Cinderella_Penguin" title="The Tender Tale of Cinderella Penguin">The Tender Tale of Cinderella Penguin</a></i> (1981)</li>
+<li><i><a href="/wiki/The_Magic_Riddle" title="The Magic Riddle">The Magic Riddle</a></i> (1991)</li>
+<li><i><a href="/wiki/Happily_N%27Ever_After" title="Happily N&#39;Ever After">Happily N'Ever After</a></i> (2007)</li>
+<li><i><a href="/wiki/Year_of_the_Fish" title="Year of the Fish">Year of the Fish</a></i> (2008)</li>
+<li><i><a href="/wiki/Cinderella_the_Cat" title="Cinderella the Cat">Cinderella the Cat</a></i> (2017)</li>
+<li><i><a href="/wiki/Charming_(film)" title="Charming (film)">Charming</a></i> (2018)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sequels</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Princess_Cinderella" title="Princess Cinderella">Princess Cinderella</a></i> (1941)</li>
+<li><i><a href="/wiki/Cinderella_II:_Dreams_Come_True" title="Cinderella II: Dreams Come True">Cinderella II: Dreams Come True</a></i> (2002)</li>
+<li><i><a href="/wiki/Cinderella_III:_A_Twist_in_Time" title="Cinderella III: A Twist in Time">Cinderella III: A Twist in Time</a></i> (2007)</li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Television</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Hey,_Cinderella!" title="Hey, Cinderella!">Hey, Cinderella!</a></i> (1968)</li>
+<li><i><a href="/wiki/Cindy_(film)" title="Cindy (film)">Cindy</a></i> (1978)</li>
+<li><i><a href="/wiki/The_Story_of_Cinderella" title="The Story of Cinderella">Cinderella Monogatari</a></i> (1996)</li>
+<li><i><a href="/wiki/Cinderella_(1997_film)" title="Cinderella (1997 film)">Cinderella</a></i> (1997)</li>
+<li><i><a href="/wiki/CinderElmo" title="CinderElmo">CinderElmo</a></i> (1999)</li>
+<li><i><a href="/wiki/Cinderella_(2000_film)" title="Cinderella (2000 film)">Cinderella</a></i> (2000)</li>
+<li><i><a href="/wiki/La_Cenicienta_(TV_series)" title="La Cenicienta (TV series)">La Cenicienta</a></i> (2003)</li>
+<li><i><a href="/wiki/Bawang_Merah_Bawang_Putih_(TV_series)" title="Bawang Merah Bawang Putih (TV series)">Bawang Merah Bawang Putih</a></i> (2004)</li>
+<li><i><a href="/wiki/Floricienta" title="Floricienta">Floricienta</a></i> (2004)</li>
+<li><i><a href="/wiki/Floribella#Floribella_Brazil" title="Floribella">Floribella</a></i> (2005 Brazil)</li>
+<li><i><a href="/wiki/Floribella#Portugal" title="Floribella">Floribella</a></i> (2006 Portugal)</li>
+<li><i><a href="/wiki/Grazilda" title="Grazilda">Grazilda</a></i> (2010)</li>
+<li><i><a href="/wiki/Rags_(2012_film)" title="Rags (2012 film)">Rags</a></i> (2012)</li>
+<li><i><a href="/wiki/Aik_Nayee_Cinderella" title="Aik Nayee Cinderella">Aik Nayee Cinderella</a></i> (2012)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Literary<br />adaptations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Celestina_(novel)" title="Celestina (novel)">Celestina</a></i> (1791)</li>
+<li><i><a href="/wiki/Cinderella,_or_the_Little_Glass_Slipper" title="Cinderella, or the Little Glass Slipper">Cinderella, or the Little Glass Slipper</a></i> (1954)</li>
+<li><i><a href="/wiki/Nine_Coaches_Waiting" title="Nine Coaches Waiting">Nine Coaches Waiting</a></i> (1958)</li>
+<li><i><a href="/wiki/Carrie_(novel)" title="Carrie (novel)">Carrie</a></i> (1974)</li>
+<li><i><a href="/wiki/The_Coachman_Rat" title="The Coachman Rat">The Coachman Rat</a></i> (1989)</li>
+<li><i><a href="/wiki/Witches_Abroad" title="Witches Abroad">Witches Abroad</a></i> (1991)</li>
+<li><i><a href="/wiki/Ella_Enchanted" title="Ella Enchanted">Ella Enchanted</a></i> (1997)</li>
+<li><i><a href="/wiki/I_Was_a_Rat!_or_The_Scarlet_Slippers" title="I Was a Rat! or The Scarlet Slippers">I Was a Rat! or The Scarlet Slippers</a></i> (1999)</li>
+<li><i><a href="/wiki/Just_Ella" title="Just Ella">Just Ella</a></i> (1999)</li>
+<li><i><a href="/wiki/Confessions_of_an_Ugly_Stepsister" title="Confessions of an Ugly Stepsister">Confessions of an Ugly Stepsister</a></i> (1999)</li>
+<li><i><a href="/wiki/Chinese_Cinderella" title="Chinese Cinderella">Chinese Cinderella</a></i> (1999)</li>
+<li><i><a href="/wiki/The_Fairy_Godmother_(novel)" title="The Fairy Godmother (novel)">The Fairy Godmother</a></i> (2004)</li>
+<li><i><a href="/wiki/Phoenix_and_Ashes" title="Phoenix and Ashes">Phoenix and Ashes</a></i> (2004)</li>
+<li><i><a href="/wiki/Bella_at_Midnight" title="Bella at Midnight">Bella at Midnight</a></i> (2006)</li>
+<li><i><a href="/wiki/Ash_(novel)" title="Ash (novel)">Ash</a></i> (2009)</li>
+<li><i><a href="/wiki/Princess_of_Glass" title="Princess of Glass">Princess of Glass</a></i> (2010)</li>
+<li><i><a href="/wiki/Cinder_(novel)" title="Cinder (novel)">Cinder</a></i> (2012)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Opera</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cendrillon_(Isouard)" title="Cendrillon (Isouard)">Cendrillon</a></i> (1810 Isouard)</li>
+<li><i><a href="/wiki/La_Cenerentola" title="La Cenerentola">La Cenerentola</a></i> (1817 Rossini)</li>
+<li><i><a href="/wiki/Cendrillon" title="Cendrillon">Cendrillon</a></i> (1899 Massenet)</li>
+<li><i><a href="/wiki/Cendrillon_(Viardot)" title="Cendrillon (Viardot)">Cendrillon</a></i> (1904 Viardot)</li>
+<li><i><a href="/wiki/La_Cenicienta" title="La Cenicienta">La Cenicienta</a></i> (1966 Hen)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Ballet</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cinderella_(Fitinhof-Schell)" title="Cinderella (Fitinhof-Schell)">Cinderella</a></i> (1893 Fitinhof-Schell)</li>
+<li><i><a href="/wiki/Aschenbr%C3%B6del" title="Aschenbrödel">Aschenbrödel</a></i> (1900 Strauss-Bayer)</li>
+<li><i><a href="/wiki/Cinderella_(Prokofiev)" title="Cinderella (Prokofiev)">Cinderella</a></i> (1945 Prokofiev)</li>
+<li><i><a href="/wiki/Cinderella_(Ashton)" title="Cinderella (Ashton)">Cinderella</a></i> (1948 Ashton)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Musicals</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cinderella_and_the_Prince,_or_The_Castle_of_Heart%27s_Desire" title="Cinderella and the Prince, or The Castle of Heart&#39;s Desire">Cinderella and the Prince, or The Castle of Heart's Desire</a></i> (1904)</li>
+<li><i><a href="/wiki/Stubborn_Cinderella" title="Stubborn Cinderella">Stubborn Cinderella</a></i> (1909)</li>
+<li><i><a href="/wiki/Mr._Cinders" title="Mr. Cinders">Mr. Cinders</a></i> (1929)</li>
+<li><i><a href="/wiki/Cinderella_(Rodgers_and_Hammerstein_musical)" title="Cinderella (Rodgers and Hammerstein musical)">Cinderella</a></i> (1957)</li>
+<li><i><a href="/wiki/Cindy_(musical)" title="Cindy (musical)">Cindy</a></i> (1964)</li>
+<li><i><a href="/wiki/The_Penny_Friend" title="The Penny Friend">The Penny Friend</a></i> (1966)</li>
+<li><i><a href="/wiki/The_Slipper_and_the_Rose_(musical)" title="The Slipper and the Rose (musical)">The Slipper and the Rose</a></i> (1984)</li>
+<li><i><a href="/wiki/Soho_Cinders" title="Soho Cinders">Soho Cinders</a></i> (2008)</li>
+<li><i><a href="/wiki/Cinderella_(2013_Broadway_production)" title="Cinderella (2013 Broadway production)">Cinderella</a></i> (2013)</li>
+<li><i><a href="/wiki/Cinderella_(Lloyd_Webber_musical)" title="Cinderella (Lloyd Webber musical)">Cinderella</a></i> (2020)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Plays
+<ul><li><i><a href="/wiki/A_Kiss_for_Cinderella" title="A Kiss for Cinderella">A Kiss for Cinderella</a></i> (1916)</li></ul></li>
+<li>Comics
+<ul><li><i><a href="/wiki/Cinderella:_From_Fabletown_with_Love" title="Cinderella: From Fabletown with Love">Cinderella: From Fabletown with Love</a></i></li>
+<li><i><a href="/wiki/Cinderalla" title="Cinderalla">Cinderalla</a></i></li></ul></li>
+<li>Games
+<ul><li><i><a href="/wiki/Cinders_(video_game)" title="Cinders (video game)">Cinders</a></i></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Songs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Spread_a_Little_Happiness" title="Spread a Little Happiness">Spread a Little Happiness</a>" (1929)</li>
+<li>"<a href="/wiki/Bibbidi-Bobbidi-Boo" title="Bibbidi-Bobbidi-Boo">Bibbidi-Bobbidi-Boo</a>" (1949)</li>
+<li>"<a href="/wiki/A_Dream_Is_a_Wish_Your_Heart_Makes" title="A Dream Is a Wish Your Heart Makes">A Dream Is a Wish Your Heart Makes</a>" (1950)</li>
+<li>"<a href="/wiki/Cinderella_(Vince_Gill_song)" title="Cinderella (Vince Gill song)">Cinderella</a>" (1987)</li>
+<li>"<a href="/wiki/Hey_Cinderella" title="Hey Cinderella">Hey Cinderella</a>" (1993)</li>
+<li>"<a href="/wiki/It%27s_Midnight_Cinderella" title="It&#39;s Midnight Cinderella">It's Midnight Cinderella</a>" (1996)</li>
+<li>"<a href="/wiki/Cinderella_(Sweetbox_song)" title="Cinderella (Sweetbox song)">Cinderella</a>" (2001)</li>
+<li>"<a href="/wiki/Cinderella_(Shakaya_song)" title="Cinderella (Shakaya song)">Cinderella</a>" (2002)</li>
+<li>"<a href="/wiki/Cinderella_(i5_song)" title="Cinderella (i5 song)">Cinderella</a>" (2003)</li>
+<li>"<a href="/wiki/Stealing_Cinderella" title="Stealing Cinderella">Stealing Cinderella</a>" (2007)</li>
+<li>"<a href="/wiki/Cinderella_(Steven_Curtis_Chapman_song)" title="Cinderella (Steven Curtis Chapman song)">Cinderella</a>" (2007)</li>
+<li>"<a href="/wiki/C%5CC_(Cinderella%5CComplex)" title="C\C (Cinderella\Complex)">C\C (Cinderella\Complex)</a>" (2008)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Albums</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A_Cinderella_Story_(soundtrack)" title="A Cinderella Story (soundtrack)">A Cinderella Story</a></i> (2004 soundtrack)</li>
+<li><i><a href="/wiki/Disney%27s_Princess_Favorites" title="Disney&#39;s Princess Favorites">Disney's Princess Favorites</a></i> (2002)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sociology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cinderella_complex" title="Cinderella complex">Cinderella complex</a></li>
+<li><a href="/wiki/Cinderella_effect" title="Cinderella effect">Cinderella effect</a></li>
+<li><a href="/wiki/The_Cinderella_Movement" title="The Cinderella Movement">The Cinderella Movement</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Commercials</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A_Coach_for_Cinderella" title="A Coach for Cinderella">A Coach for Cinderella</a></i></li>
+<li><i><a href="/wiki/A_Ride_for_Cinderella" title="A Ride for Cinderella">A Ride for Cinderella</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Adult</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cinder_Ellen_up_too_Late" title="Cinder Ellen up too Late">Cinder Ellen up too Late</a></i></li>
+<li><i><a href="/wiki/Cinderella_(1977_film)" title="Cinderella (1977 film)">Cinderella</a></i> (1977)</li>
+<li><i><a href="/wiki/Naughty_Cinderella" title="Naughty Cinderella">Naughty Cinderella</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Cinderella" title="Category:Cinderella">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20210125144221
+Cache expiry: 3600
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.620 seconds
+Real time usage: 0.836 seconds
+Preprocessor visited node count: 2546/1000000
+Post‐expand include size: 126298/2097152 bytes
+Template argument size: 3932/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 42476/5000000 bytes
+Lua time usage: 0.270/10.000 seconds
+Lua memory usage: 7236352/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  707.585      1 -total
+ 24.79%  175.388      1 Template:Reflist
+ 21.25%  150.388     12 Template:Cite_web
+ 15.00%  106.134      1 Template:Infobox_film
+ 12.55%   88.825      1 Template:Infobox
+  7.45%   52.689      1 Template:Official_website
+  7.36%   52.066      1 Template:Short_description
+  6.27%   44.348      5 Template:Navbox
+  5.39%   38.156      1 Template:Cinderella_(Fairy_tale)
+  4.72%   33.395      1 Template:A_Cinderella_Story
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:466340-0!canonical and timestamp 20210125144221 and revision id 998661352. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=A_Cinderella_Story&amp;oldid=998661352">https://en.wikipedia.org/w/index.php?title=A_Cinderella_Story&amp;oldid=998661352</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2004_films" title="Category:2004 films">2004 films</a></li><li><a href="/wiki/Category:English-language_films" title="Category:English-language films">English-language films</a></li><li><a href="/wiki/Category:2000s_high_school_films" title="Category:2000s high school films">2000s high school films</a></li><li><a href="/wiki/Category:2004_romantic_comedy_films" title="Category:2004 romantic comedy films">2004 romantic comedy films</a></li><li><a href="/wiki/Category:2000s_teen_comedy_films" title="Category:2000s teen comedy films">2000s teen comedy films</a></li><li><a href="/wiki/Category:2000s_teen_romance_films" title="Category:2000s teen romance films">2000s teen romance films</a></li><li><a href="/wiki/Category:American_films" title="Category:American films">American films</a></li><li><a href="/wiki/Category:American_high_school_films" title="Category:American high school films">American high school films</a></li><li><a href="/wiki/Category:American_romantic_comedy_films" title="Category:American romantic comedy films">American romantic comedy films</a></li><li><a href="/wiki/Category:American_teen_comedy_films" title="Category:American teen comedy films">American teen comedy films</a></li><li><a href="/wiki/Category:American_teen_romance_films" title="Category:American teen romance films">American teen romance films</a></li><li><a href="/wiki/Category:Films_based_on_Charles_Perrault%27s_Cinderella" title="Category:Films based on Charles Perrault&#039;s Cinderella">Films based on Charles Perrault's Cinderella</a></li><li><a href="/wiki/Category:Films_based_on_Cinderella" title="Category:Films based on Cinderella">Films based on Cinderella</a></li><li><a href="/wiki/Category:Films_directed_by_Mark_Rosman" title="Category:Films directed by Mark Rosman">Films directed by Mark Rosman</a></li><li><a href="/wiki/Category:Films_scored_by_Christophe_Beck" title="Category:Films scored by Christophe Beck">Films scored by Christophe Beck</a></li><li><a href="/wiki/Category:Holiday-themed_films" title="Category:Holiday-themed films">Holiday-themed films</a></li><li><a href="/wiki/Category:Films_about_Halloween" title="Category:Films about Halloween">Films about Halloween</a></li><li><a href="/wiki/Category:Films_set_in_1994" title="Category:Films set in 1994">Films set in 1994</a></li><li><a href="/wiki/Category:Films_set_in_2002" title="Category:Films set in 2002">Films set in 2002</a></li><li><a href="/wiki/Category:Films_set_in_the_San_Fernando_Valley" title="Category:Films set in the San Fernando Valley">Films set in the San Fernando Valley</a></li><li><a href="/wiki/Category:Films_shot_in_Los_Angeles" title="Category:Films shot in Los Angeles">Films shot in Los Angeles</a></li><li><a href="/wiki/Category:Warner_Bros._films" title="Category:Warner Bros. films">Warner Bros. films</a></li><li><a href="/wiki/Category:A_Cinderella_Story_(film_series)" title="Category:A Cinderella Story (film series)">A Cinderella Story (film series)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Template_film_date_with_1_release_date" title="Category:Template film date with 1 release date">Template film date with 1 release date</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_May_2014" title="Category:Use mdy dates from May 2014">Use mdy dates from May 2014</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=A+Cinderella+Story" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=A+Cinderella+Story" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/A_Cinderella_Story" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:A_Cinderella_Story" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/A_Cinderella_Story">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=A_Cinderella_Story&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=A_Cinderella_Story&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
 	
-	
-	<style>
-		.cover-background-header {
-			background-image: url("/images/Projects/WEV/Products/001653/prodheader.jpg");
-			background-position: center center;
-		}
-	</style>
-	<header role="banner">
-		<nav class="navbar navbar-expand-sm fixed-top navbar-main" role="navigation">
-			<div class="container">
-				<a href="/default.asp" class="navbar-brand d-none d-lg-block" title="Stanley Martin Homes">
-					<img src="/img/logo/smh_logo.png" alt="Stanley Martin Homes" />
-				</a>
-				<a href="/default.asp" class="navbar-brand d-lg-none" title="Stanley Martin Homes">
-					<img src="/img/logo/smh_logo_mobile.png" alt="Stanley Martin Homes" />
-				</a>
-				<div class="d-none d-lg-block">
-					<ul class="navbar-nav mega-menu">
-						<li class="nav-item dropdown">
-							<a id="fyh" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" title="Homebuyer Resources">
-								Find Your Home
-								<i class="fas fa-caret-down" aria-hidden="true"></i>
-							</a>
-							<ul class="dropdown-menu mega-menu">
-								<li>
-									<div class="list-group list-group-flush">
-										<div class="row">
-											<div class="col-lg-12">
-												<div class="accordion" id="accordionStates">
-													<div class="card border-0">
-														<div class="row">
-															<div class="col-lg-6 pr-0">
-																<a class="list-group-item list-group-link" href="#" data-toggle="collapse" data-target="#georgia" aria-expanded="false" aria-controls="georgia" title="Georgia">
-																	Georgia
-																</a>
-																<div id="georgia" class="collapse" aria-labelledby="headingOne" data-parent="#accordionStates">
-																	<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1007" title="Atlanta" class="list-group-item">
-																		Atlanta
-																	</a>
-																</div>
-																<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1001" title="Maryland" class="list-group-item">
-																	Maryland
-																</a>
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
 
-																<a class="list-group-item list-group-link border-0" href="#" data-toggle="collapse" data-target="#ncarolina" aria-expanded="false" aria-controls="ncarolina" title="North Carolina">
-																	North Carolina
-																</a>
-																<div id="ncarolina" class="collapse" aria-labelledby="headingOne" data-parent="#accordionStates">
-																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1011" title="Charlotte" class="list-group-item">
-																		Charlotte
-																  </a>
-																  <a href="/our-communities/projectsallmetro.asp?MetroAreaID=1014" title="Coastal Carolina" class="list-group-item">
-																	Coastal Carolina
-																  </a>
-																  <a href="/our-communities/projectsallmetro.asp?MetroAreaID=1004" title="Raleigh" class="list-group-item">
-																		Raleigh
-																	</a>
-																	<a href="/our-communities/projectdetail.asp?ProjectGroupID=RE&MetroAreaID=1004" title="Wake Forest" class="list-group-item">
-																		Wake Forest
-																	</a>
-																</div>
-															  </div>
-															<div class="col-lg-6 pl-0">
-																<a class="list-group-item list-group-link" href="#" data-toggle="collapse" data-target="#scarolina" aria-expanded="false" aria-controls="scarolina" title="South Carolina">
-																	South Carolina
-																</a>
-																<div id="scarolina" class="collapse" aria-labelledby="headingOne" data-parent="#accordionStates">
-																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1013" title="Aiken & North Augusta" class="list-group-item">
-																		Aiken & North Augusta
-																	</a>
-																	<a href="/our-communities/projectdetail.asp?ProjectGroupID=47&MetroAreaID=1008" title="Bluffton" class="list-group-item">
-																		Bluffton
-																	</a>
-																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1008" title="Charleston" class="list-group-item">
-																		Charleston
-																	</a>
-																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1010" title="Columbia" class="list-group-item">
-																		Columbia
-																	</a>
-																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1012" title="Greenville & Spartanburg" class="list-group-item">
-																		Greenville & Spartanburg
-																	</a>
-																</div>
-																<div class="card border-0">
-																	<a class="list-group-item list-group-link" href="#" data-toggle="collapse" data-target="#virginia" aria-expanded="false" aria-controls="virginia" title="Virginia">
-																		Virginia
-																	</a>
-																	<div id="virginia" class="collapse" aria-labelledby="headingOne" data-parent="#accordionStates">
-																		<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1003" title="Charlottesville" class="list-group-item">
-																			Charlottesville
-																		</a>
-																		<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1000" title="Northern Virginia" class="list-group-item">
-																			Northern Virginia
-																		</a>
-																		<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1006" title="Richmond" class="list-group-item">
-																			Richmond
-																		</a>
-																		<a href="/our-communities/projectdetail.asp?ProjectGroupID=KS&MetroAreaID=1006" title="Williamsburg" class="list-group-item">
-																			Williamsburg
-																		</a>
-																	</div>
-																</div>
-																<a href="/our-communities/Projectdetail.asp?ProjectGroupID=PEP&MetroAreaID=1009" title="West Viginia" class="list-group-item">
-																	West Virginia
-																</a>
-															</div>
-														</div>
-														<a href="/smcweb/Spec_SalesGrid.asp" title="Move-In-Ready" class="btn-pink mt-2 text-center list-group-item">
-															Move-In-Ready
-														</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</li>
-							</ul>
-						</li>
-						<li class="nav-item dropdown">
-							<a id="wwa" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" title="Who We Are">
-								Who We Are
-								<i class="fas fa-caret-down" aria-hidden="true"></i>
-							</a>
-							<ul class="dropdown-menu single-menu">
-								<li>
-									<div class="list-group list-group-flush">
-										<div class="row">
-											<div class="col-lg-12 pl-0 pr-2">
-												<div class="accordion" id="accordionWho">
-													<div class="card border-0">
-														<a class="list-group-item list-group-link" href="#" data-toggle="collapse" data-target="#aboutus" aria-expanded="false" aria-controls="aboutus" title="About Us">
-															About Us
-														</a>
-														<div id="aboutus" class="collapse" aria-labelledby="headingOne" data-parent="#accordionWho">
-															<a href="/smcweb/AboutSec.asp?SectionID=3&SubSectionID=38" title="Our Values" class="list-group-item">
-																Our Values
-															</a>
-															<a href="/smcweb/givingback.asp" title="Giving Back" class="list-group-item">
-																Giving Back
-															</a>
-															<a href="/smcweb/About.asp?SectionID=3" title="Our History" class="list-group-item">
-																Our History
-															</a>
-														</div>
-													</div>
-													<a class="list-group-item" href="/smcweb/aboutsec.asp?SectionID=3&SubSectionID=71" title="Our Companies">
-														Our Companies
-													</a>
-													<a href="/smcweb/AboutSec.asp?SectionID=3&SubSectionID=61" title="Testimonials" class="list-group-item">
-														Testimonials
-													</a>
-													<a href="/news/inthenews.asp" title="In The News" class="list-group-item d-none">
-														In The News
-													</a>
-													<a href="/smcweb/careers.asp" title="Careers" class="list-group-item">
-														Careers
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</li>
-							</ul>
-						</li>
-						<li class="nav-item dropdown">
-							<a id="hbr" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" title="Homebuyer Resources">
-								Homebuyer Resources
-								<i class="fas fa-caret-down" aria-hidden="true"></i>
-							</a>
-							<ul class="dropdown-menu mega-menu">
-								<li>
-									<div class="list-group list-group-flush">
-										<div class="row">
-											<div class="col-lg-12">
-												<div class="accordion" id="accordionWho">
-													<div class="card border-0">
-														<div class="row">
-															<div class="col-lg-6 pr-0">
-																<a href="/smcweb/design.asp?SectionID=2" title="Design Center" class="list-group-item">
-																	Design Center
-																</a>
-																<a href="/smcweb/aboutsec.asp?SectionID=3&SubSectionID=70" title="Digital-Ready Home" class="list-group-item">
-																	Digital-Ready Home
-																</a>
-																<a href="/smcweb/greenliving.asp" title="Green Living" class="list-group-item">
-																	Green Living
-																</a>
-																<a href="/smcweb/homebuyer101.asp" title="Homebuyer 101" class="list-group-item">
-																	Homebuyer 101
-																</a>
-															</div>
-															<div class="col-lg-6 pl-0">
-																<a href="/smcweb/multi-gen-living.asp" title="Multi-Gen Living" class="list-group-item">
-																	Multi-Gen Living
-																</a>
-																<a href="/smcweb/mortgage.asp" title="Mortgage Calculator" class="list-group-item">
-																	Mortgage Calculator
-																</a>
-																<a href="/smcweb/AboutSec.asp?SectionID=3&SubSectionID=40" title="Videos" class="list-group-item d-none">
-																	Videos
-																</a>
-																<a href="/smcweb/aboutsec.asp?SectionID=7&SubSectionID=53" title="Warranty" class="list-group-item">
-																	Warranty
-																</a>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<a id="blg" class="nav-link" href="/blog/at-home.asp" title="Blog">
-								@Homeblog
-							</a>
-						</li>
-						<li>
-							<a id="ctu" class="nav-link" href="/smcweb/contact-us.asp" title="Contact Us">
-								Contact Us
-							</a>
-						</li>
-					</ul>
-				</div>
-				<div class="d-lg-none float-right">
-					<a id="mobile" class="btn btn-mobile clickable" href="#" data-toggle="modal" data-target="#menu-mobile">
-						<i class="fa fa-bars fa-1x" aria-hidden="true"></i>
-					</a>
-				</div>
-			</div>
-		</nav>
-		<div class="subhead">
-			<div class="subhead-container d-flex mx-auto flex-column">
-				<div class="breadcrumb-nav fixed-top" aria-label="breadcrumb">
-					<div class="container">
-						<ol class="breadcrumb">
-							
-							
-							
-							
-							<li class="breadcrumb-item">
-								<a href="/default.asp" title="Home">
-									<i class="fas fa-home"></i>
-								</a>
-							</li>
-							<li id="pageActive" class="breadcrumb-item">
-								<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1004">
-									Raleigh/Durham
-								</a>
-							</li>
-							<li class="breadcrumb-item text-truncate link">
-								<a href="/our-communities/ProjectDetail.asp?ProjectGroupID=WEV&MetroAreaID=1004">
-									The Residences at West Village                                                                                                                             
-								</a>
-							</li>
-							
-							
-							
-							
-							
-							<li class="breadcrumb-item text-truncate link active">
-								The Sawyer II
-							</li>
-						</ol>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-	<section class="cover-container product-cover d-flex flex-column mx-auto">
-		<div class="cover-background-header"></div>
-		<div class="masthead mb-auto">
-			<div class="inner"></div>
-		</div>
-		<div class="container"></div>
-		<div class="mastfoot mt-auto">
-			<div class="cover-overlay-header">
-				<div class="col-lg-10 offset-lg-1">
-					<div class="cover-overlay-content text-left text-white font-weight-bold m-auto">
-						<div class="row">
-							<div class="col-lg-6">
-								<h1 class="pl-0 pt-3">
-									The Sawyer II
-								</h1>
-							</div>
-							<div class="col-lg-6">
-								<div class="d-flex justify-content-sm-start justify-content-lg-end h4 pt-3">
-									Priced From: $469,990
-								</div>
-							</div>
-						</div>
-						<hr class="spacer border-green w-100 mb-0">
-						<div class="row">
-							<div class="d-flex justify-content-start col-lg-6 h4 pt-3">
-								The Residences at West Village                                                                                                                             
-							</div>
-						</div>
-						<div class="row mt-3 bg-dark-blue">
-							<div class="col-lg-3 col-6">
-								<div class="d-flex justify-content-center text-white text-center">
-									<div class="pt-3">
-										<span class="float-left w-100">
-											<i class="fa fa-bed my-2 fa-2x"></i>
-										</span>
-										<span class="h6 font-weight-bold">
-											3
-										</span>
-										<br/>
-										<span class="font-weight-light">
-											Bedrooms
-										</span>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-3 col-6">
-								<div class="d-flex justify-content-center text-white text-center">
-									<div class="py-3">
-										<span class="float-left w-100">
-											<i class="fa fa-bath my-2 fa-2x"></i>
-										</span>
-										<span class="font-weight-bold">
-											2 Full
-										</span>
-										<span id="halfBathrooms" class="font-weight-bold">
-											1 Half
-										</span>
-										<span class="font-weight-light d-block w-100">
-											Bathrooms
-										</span>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-3 col-6">
-								<div class="d-flex justify-content-center text-white text-center">
-									<div class="py-3">
-										<span class="float-left w-100">
-											<i class="fa fa-warehouse my-2 fa-2x"></i>
-										</span>
-										<span class="h6 font-weight-bold">
-											2
-										</span>
-										<br/>
-										<span class="font-weight-light">
-											Garage
-										</span>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-3 col-6">
-								<div class="d-flex align-self-center justify-content-center text-white text-center">
-									<div class="py-3">
-										<span class="float-left w-100">
-											<i class="fas fa-vector-square my-2 fa-2x"></i>
-										</span>
-										<span class="h6 font-weight-bold">
-											Min 2461 -          Max 3479
-										</span>
-										<br/>
-										<span class="font-weight-light">
-											Sq. Ft.
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div id="subNavigation" class="p-0 d-none d-sm-none d-md-block d-xl-block">
-					<div class="container-fluid p-0">
-						<ul id="sub-navigation-menu" class="nav nav-tabs nav-justified">
-							<li class="overview-tab">
-								<a href="#introduction" class="nav-link" title="Introduction">
-									Overview
-								</a>
-							</li>
-							<li class="mediacenter-tab nav-item">
-								<a href="#media" class="nav-link" title="Media Center">
-									Media Center
-								</a>
-							</li>
-							<li class="nav-item">
-								<a href="#consultant" class="nav-link" title="Let's Talk">
-									Let's Talk
-								</a>
-							</li>
-							<li class="learnmore-tab">
-								<a class="nav-link btn-learnmore" href="#consult-info-a" data-toggle="modal" data-target="#consult-info" aria-haspopup="true" aria-expanded="false">
-									Learn More
-								</a>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<main role="main">
-		<section id="introduction" class="section-body border-0 p-0 bg-white">
-			<div class="container-fluid">
-				<div class="row p-0">
-					<div class="section-text d-flex col-sm-12 col-lg-6 order-2 order-lg-1 py-5 pl-4 pr-4 justify-content-start justify-content-md-end">
-						<div class="align-self-center">
-							<h2>
-								Diverse Layout with Expansive Options
-							</h2>
-							<p>This home delivers on all levels. The first floor offers a diverse layout that includes an open-architecture kitchen, breakfast area, and great room space that also includes an optional deck to expand the space in warmer months. You can take it up a notch by adding the optional gourmet kitchen, morning room, and covered or screened porch. What a great space to entertain or just spread out if you have a large family.<br><br>The second floor is an oasis all its own. It comes as a standard 3-bedroom layout but you can add a fourth bedroom if you wish to enact that option. As you come to the top of the stairs, on the right, you&#39;ll see the spacious owner&#39;s bedroom with two walk-in closets. Inside the room, it&#39;s easy to imagine yourself enjoying your own sink in the separate bath, which also contains the second walk-in closet, a nice-size linen closet, and a small room with a private commode. There is a handy flex space at the back of the house that works as a media room, study area, or a spot for exercise equipment.</p>
-						</div>
-					</div>
-					<div id="slider-section" class="d-flex col-sm-12 col-lg-6 order-1 order-lg-2 p-0">
-						<div class="container-fluid">
-							<div class="d-none">
-								WEV 001653
-							</div>
-							<div id="slider-wrapper" class="row">
-								<script type="text/javascript">
-									function doLayoutSlider() {
-										var galleryWidth = parseInt($('#slider-section').width());
-										var galleryHeight = parseInt(galleryWidth / 1.5);
-										$('#slider-wrapper').width(galleryWidth);
-										$('#slider-wrapper').height(galleryHeight);
-									}
-									$(document).ready(function () {
-										doLayoutSlider();
-										$(window).resize(doLayoutSlider);
-										new juicebox({
-											//configUrl: "../images/Projects/PO/Products/A90/Media.xml",
-											configUrl: "../images/Projects/WEV/Products/001653/Elevations.xml",
-											themeURL: "../jbcore/classic/theme.css",
-											containerId: 'slider-container',
-											galleryWidth: '100%',
-											galleryHeight: '100%',
-											backgroundColor: 'transparent',
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/A_Cinderella_Story" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/A_Cinderella_Story" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=A_Cinderella_Story&amp;oldid=998661352" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=A_Cinderella_Story&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=A_Cinderella_Story&amp;id=998661352&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q276415" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=A_Cinderella_Story&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=A_Cinderella_Story&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/A_Cinderella_Story" hreflang="en">Wikiquote</a></li></ul>
+		
+	</div>
+</nav>
 
-											captionPosition: 'overlay',
-											galleryDescription: '',
-											addSEOContent: 'true',
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%A9_%D8%B3%D9%86%D8%AF%D8%B1%D9%8A%D9%84%D8%A7_(%D9%81%D9%8A%D9%84%D9%85)" title="قصة سندريلا (فيلم) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D1%82%D0%B0_%D0%BD%D0%B0_%D0%9F%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%88%D0%BA%D0%B0" title="Историята на Пепеляшка – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Una_Ventafocs_moderna" title="Una Ventafocs moderna – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Modern%C3%AD_Popelka" title="Moderní Popelka – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Cinderella_Story" title="Cinderella Story – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tuhkatriinu_lugu" title="Tuhkatriinu lugu – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%DB%8C%D9%86%D8%AF%D8%B1%D9%84%D8%A7" title="داستان سیندرلا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Comme_Cendrillon" title="Comme Cendrillon – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Unha_cincenta_moderna" title="Unha cincenta moderna – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC_%EC%8A%A4%ED%86%A0%EB%A6%AC" title="신데렐라 스토리 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%B8%D5%AD%D6%80%D5%B8%D5%BF%D5%AB_%D5%BA%D5%A1%D5%BF%D5%B4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%A8_(%D6%86%D5%AB%D5%AC%D5%B4)" title="Մոխրոտի պատմությունը (ֆիլմ) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Pepeljuga_(2004.)" title="Pepeljuga (2004.) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%A4%D7%95%D7%A8_%D7%A1%D7%99%D7%A0%D7%93%D7%A8%D7%9C%D7%94" title="סיפור סינדרלה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%D0%BD%D0%B0_%D0%B7%D0%B0_%D0%9F%D0%B5%D0%BF%D0%B5%D0%BB%D0%B0%D1%88%D0%BA%D0%B0" title="Приказна за Пепелашка – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_(%E6%98%A0%E7%94%BB)" title="シンデレラ・ストーリー (映画) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Historia_Kopciuszka" title="Historia Kopciuszka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/O_Cenu%C8%99%C4%83reas%C4%83_modern%C4%83" title="O Cenușăreasă modernă – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%97%D0%BE%D0%BB%D1%83%D1%88%D0%BA%D0%B8" title="История Золушки – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%87%D0%B0_%D0%BE_%D0%9F%D0%B5%D0%BF%D0%B5%D1%99%D1%83%D0%B3%D0%B8" title="Прича о Пепељуги – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tuhkimotarina_(vuoden_2004_elokuva)" title="Tuhkimotarina (vuoden 2004 elokuva) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/En_askungesaga" title="En askungesaga – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bir_K%C3%BClkedisi_Masal%C4%B1" title="Bir Külkedisi Masalı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%9F%D0%BE%D0%BF%D0%B5%D0%BB%D1%8E%D1%88%D0%BA%D0%B8" title="Історія Попелюшки – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/A_Cinderella_Story" title="A Cinderella Story – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q276415#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
 
-											showThumbsOnLoad: false,
-											showImageNav: 'always',
-											showImageOverlay: "always",
-											showImageNumber: "false",
-											showImageNav: "always",
-											showThumbsButton: "false",
-											showExpandButton: "false",
-											showOpenButton: "false",
-											showThumbsOnLoad: "false",
-											showSmallThumbsOnLoad: "false",
-											showSmallThumbsButton: "false",
-											showSmallPagingText: "false",
-											showImageNumber: true,
+</div>
 
-											buttonBarBackColor: "rgba(0,0,0,0.5)",
-											imageShadowColor: "rgba(0,0,0,0.5)",
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 6 January 2021, at 12:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
 
-											captionHAlign: "left",
-											captionBackTopColor: "rgba(0,0,0,0.5)",
-											captionBackColor: "rgba(0,0,0,0.5)",
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=A_Cinderella_Story&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
 
-											imageVAlign: "center",
-											imageHAlign: "bottom",
-											imageNavPosition: "stage",
-											imageShadowColor: "rgba(255,255,255,0)",
-											imageTransitionType: "cross_fade",
-											imagePreloading: "next",
-											imageNavPadding: 15,
-											imageScaleMode: 'FILL',
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
 
-											galleryfontface: "Lato,Arial",
-											stagePadding: 0,
+	<div style="clear: both;"></div>
+</footer>
 
-											showPreloader: "false",
-											useThumbDots: "false",
-											enableAutoPlay: "false",
-											autoPlayOnLoad: "false",
-											showAutoPlayStatus: "false",
-											enableLooping: "false",
-											screenMode: "Large",
-										});
-									});
-								</script>
-								<div id="slider-container"></div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<section id="gallery" class="section-body bg-light pt-5">
-			<div id="section-title" class="container">
-				<div class="col-lg-10 offset-lg-1">
-					<div class="text-center">
-						<div class="h3 text-uppercase font-weight-bold text-blue">
-							Gallery
-						</div>
-						<hr class="spacer">
-					</div>
-				</div>
-			</div>
-			<div id="gallery-section" class="container pt-2 pb-4">
-				<div class="d-none">
-					WEV 001653
-				</div>
-				<div id="gallery-wrapper">
-					<script type="text/javascript">
-						function doLayoutGallery() {
-							var galleryWidth = parseInt($('#gallery-section').width());
-							var galleryHeight = parseInt(galleryWidth /1.7);
-							$('#gallery-wrapper').width(galleryWidth);
-							$('#gallery-wrapper').height(galleryHeight);
-						}
-						$(document).ready(function () {
-							doLayoutGallery();
-							$(window).resize(doLayoutGallery);
-							new juicebox({
-								//configUrl: "../projects/PO/Products/A90/Media.xml",
-								configUrl: "../images/Projects/WEV/Products/001653/Media.xml",
-								themeURL: "../jbcore/classic/theme.css",
-								containerId: 'gallery-container',
-								galleryWidth: '100%',
-								galleryHeight: '100%',
-								backgroundColor: 'transparent',
 
-								galleryDescription: '',
-								addSEOContent: 'true',
-
-								showThumbsOnLoad: false,
-								showImageNav: 'always',
-								showImageOverlay: "always",
-								showImageNumber: "false",
-								showImageNav: "always",
-								showThumbsButton: "false",
-								showExpandButton: "false",
-								showOpenButton: "false",
-								showThumbsOnLoad: "false",
-								showSmallThumbsOnLoad: "false",
-								showSmallThumbsButton: "false",
-								showSmallPagingText: "false",
-								showImageNumber: true,
-
-								buttonBarBackColor: "rgba(0,0,0,0.4)",
-								imageShadowColor: "rgba(0,0,0,0)",
-
-								captionPosition: 'OVERLAY_IMAGE',
-								captionHAlign: "left",
-								captionBackTopColor: "rgba(0,0,0,0.5)",
-								captionBackColor: "rgba(0,0,0,0.5)",
-								textColor: "rgba(255,255,255,1)",
-								textShadowColor: "rgba(0,0,0,0)",
-								maxCaptionHeight: 50,
-
-								imageVAlign: "bottom",
-								imageHAlign: "center",
-								imageNavPosition: "stage",
-								imageShadowColor: "rgba(255,255,255,0)",
-								imageTransitionType: "cross_fade",
-								imagePreloading: "next",
-								imageNavPadding: 15,
-								imageScaleMode: 'FILL',
-
-								galleryfontface: "Lato,Arial",
-								stagePadding: 0,
-
-								showPreloader: "false",
-								useThumbDots: "false",
-								enableAutoPlay: "false",
-								autoPlayOnLoad: "false",
-								showAutoPlayStatus: "false",
-								enableLooping: "false",
-								screenMode: "Large",
-							});
-						});
-					</script>
-					<div id="gallery-container"></div>
-				</div>
-			</div>
-		</section>
-		<section id="media" class="section-body pt-0 pb-2 bg-light border-0">
-			<nav id="menu-section-tabs" class="row m-0 bg-dark-blue pt-5">
-				<div id="section-title" class="container-fluid">
-					<div class="col-lg-10 offset-lg-1">
-						<div class="text-center">
-							<div class="h3 text-uppercase text-white font-weight-bold">
-								Media Center
-							</div>
-							<hr class="spacer border-white">
-						</div>
-					</div>
-				</div>
-
-				<div id="menu-tabs" class="m-auto">
-					<ul class="list-group list-group-horizontal" id="list-tab" role="listview">
-						<li id="floorplan-view-list" class="list-group-item flex-fill bg-none border-0">
-							<button type="button" class="btn btn-link btn-block active" data-toggle="list" href="#floorplan-view" role="tab" aria-controls="list-view">
-								<span class="d-block">
-									Floorplan
-								</span>
-							</button>
-						</li>
-						<li id="virtual-view-list" class="list-group-item flex-fill bg-none border-0">
-							<button type="button" class="btn btn-link btn-block" id="virtual-view-list" data-toggle="list" href="#virtual-view" role="tab" aria-controls="virtual-view">
-								<span class="d-block">
-									Virtual Tour
-								</span>
-							</button>
-						</li>
-						<li id="video-view-list" class="list-group-item flex-fill bg-none border-0">
-							<button type="button" class="btn btn-link btn-block" id="video-view-list" data-toggle="list" href="#video-view" role="tab" aria-controls="video-view">
-								<span class="d-block">
-									Video
-								</span>
-							</button>
-						</li>
-					</ul>
-				</div>
-			</nav>
-			<div class="tab-content">
-				<div class="tab-pane fade show active" id="floorplan-view" role="tabpanel" aria-labelledby="floorplan-view-list">
-					<div id="floorplanSrc" class="container pl-0 pr-0 mt-2" style="max-width:1450px">
-						<iframe id="comFloorplan" src="https://contradovip.com/stanley-martin/1004/wev/001653/" class="vip-frame mt-4 mb-3" frameborder="0" scrolling="no" width="1450" height="720"></iframe>
-					</div>
-				</div>
-				<div class="tab-pane fade" id="virtual-view" role="tabpanel" aria-labelledby="virtual-view-list">
-					<div class="container pl-0 pr-0">
-						<iframe id="comvirTour" class="mt-4 mb-3" src="" allowfullscreen="yes" width="1140" height="640" frameborder="0"></iframe>
-					</div>
-				</div>
-				<div class="tab-pane fade" id="video-view" role="tabpanel" aria-labelledby="video-view-list">
-					<div class="container pl-0 pr-0">
-						<iframe id="comVideo" class="mt-4 mb-3" src="" allowfullscreen="yes" width="1140" height="640" frameborder="0"></iframe>
-					</div>
-				</div>
-			</div>
-		</section>
-		<section id="consultant" class="section-body bg-light-blue">
-			<div class="container">
-				<div class="col-lg-12">
-					<div class="text-center m-auto pb-3">
-						<div class="h3 text-uppercase font-weight-bold text-white">
-							Let's Talk
-						</div>
-						<hr class="spacer border-white">
-					</div>
-				</div>
-				
-				
-				
-				
-				<div class="col-lg-9 m-auto">
-					<div class="card">
-						<div class="card-body">
-							<div class="row">
-								<div class="col-lg-3 d-flex py-2">
-									<div class="align-self-center m-auto">
-										<img src="/images/SalesAgents/78.jpg" class="img-fluid rounded-circle" />
-									</div>
-								</div>
-								<div class="col-lg-9 d-flex">
-									<div class="align-self-center text-lg-left text-center">
-										<p class="mb-2">
-											<p>Hi, I&rsquo;m Lisa! Did you know you can now tour our homes and meet with our team virtually? If you have any questions about our virtual tours, communities, home designs, or locations- just ask! One of our team members would love to talk to you.</p>
-										</p>
-										<button type="button" data-toggle="modal" data-target="#consult-info" class="btn btn-success mt-1">
-											<i class="fas fa-envelope mr-1"></i>
-											Contact
-										</button>
-										<a href="tel:919-679-4585" class="btn btn-secondary mt-1" title="Office Number">
-											<i class="fas fa-phone-square mr-1" data-fa-transform="flip-h" aria-hidden="true"></i>
-											Call 919-679-4585
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- Consult Modal -->
-				<div id="consult-info" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="consultInfo" aria-hidden="true">
-					<div class="modal-dialog modal-md modal-dialog-centered" role="document">
-						<div class="modal-content">
-							<div class="bg-dark-blue text-white rounded-top">
-								<div class="row pb-4">
-									<div class="col-lg-12">
-										<a data-dismiss="modal" href="#" class="btn btn-link float-right">
-											<i class="fa fa-times fa-2x" aria-hidden="true"></i>
-										</a>
-									</div>
-									<div class="col-lg-3 col-sm-12 d-flex">
-										<div class="align-self-center text-center m-auto pl-3 pr-3">
-											<img src="/images/SalesAgents/78.jpg" class="img-fluid rounded-circle m-3" />
-										</div>
-									</div>
-									<div class="col-lg-9 col-sm-12 d-flex">
-										<div class="align-self-center text-center text-lg-left w-100">
-											<h5 class="modal-title font-weight-bold h3">Let's Talk</h5>
-											<p>We're here to answer any questions.</p>
-											<hr class="border border-light-blue justify-content-center w-75 d-none d-sm-none d-md-none d-lg-block" />
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="modal-body p-0">
-								<iframe src="https://go.pardot.com/l/843863/2020-02-13/mdt4vs?&MetroAreaID=1004&CampaignCode=1&CampaignID=1&Neighborhood=The Residences at West Village                                                                                                                             &Form_Name=Product_Consult_Contact&Trn_ProjectGroupID=WEV&Trn_MetroAreaID=1004&Trn_ProjectGroupID=WEV&Trn_CampaignCode=1&Trn_CampaignID=1" width="100%" height="425" type="text/html" frameborder="0" scrolling="no" allowTransparency="false" class="pl-3 pr-3 pb-0 pt-3 bg-light"></iframe>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				
-				
-				
-				
-				
-			</div>
-		</section>
-	</main>
-	<footer id="footer" role="contentinfo">
-		<div id="footermenuInc">
-			<script>
-				$("#footermenuInc").load("/inc/footermenu.html");
-			</script>
-		</div>
-		<div class="container">
-			<div class="col-lg-12 text-center">
-				<a href="#main-body" class="text-uppercase btn text-white btn-secondary rounded-0">
-					Back to Top
-					<i class="fas fa-chevron-up ml-1"></i>
-				</a>
-			</div>
-		</div>
-		<div class="policy">
-			<ul id="policy-links" class="list-inline">
-				<li class="list-inline-item">
-					<a href="/smcweb/terms.asp" title="Terms of Use">
-						Terms of Use
-					</a>
-				</li>
-				<li class="list-inline-item">
-					<a href="/smcweb/privacy.asp" title="Privacy Statement">
-						Privacy Statement
-					</a>
-				</li>
-				<li class="list-inline-item">
-					<a target="_blank" href="/smcweb/contact-us.asp" title="Contact Us">
-						Contact Us
-					</a>
-				</li>
-				<li class="list-inline-item border-right-0">
-					<i class="search-icon fas fa-registered" aria-hidden="true"></i>
-					Maryland Home Builder Registration No. 3588
-					<img class="img-fluid ml-3" src="/img/logo/eho_logo.png" width="20px" alt="Equal Housing Opportunity" />
-				</li>
-			</ul>
-		</div>
-		<div class="copyright">
-			<div class="col-lg-12">
-				<i class="far fa-copyright"></i>
-				<script type="text/javascript"> document.write(new Date().getFullYear())</script> Stanley Martin Homes. All rights reserved.
-			</div>
-		</div>
-		<div id="mobilemenuInc">
-			<script>
-				$("#mobilemenuInc").load("/inc/mobilemenu.html");
-			</script>
-		</div>
-	</footer>
-	<script src="/js/homedesigns.js?cb=1582741906228" type="text/javascript"></script>
-	<noscript>
-		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-M6K4P7" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-	</noscript>
-</body>
-</html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.620","walltime":"0.836","ppvisitednodes":{"value":2546,"limit":1000000},"postexpandincludesize":{"value":126298,"limit":2097152},"templateargumentsize":{"value":3932,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":42476,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  707.585      1 -total"," 24.79%  175.388      1 Template:Reflist"," 21.25%  150.388     12 Template:Cite_web"," 15.00%  106.134      1 Template:Infobox_film"," 12.55%   88.825      1 Template:Infobox","  7.45%   52.689      1 Template:Official_website","  7.36%   52.066      1 Template:Short_description","  6.27%   44.348      5 Template:Navbox","  5.39%   38.156      1 Template:Cinderella_(Fairy_tale)","  4.72%   33.395      1 Template:A_Cinderella_Story"]},"scribunto":{"limitreport-timeusage":{"value":"0.270","limit":"10.000"},"limitreport-memusage":{"value":7236352,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20210125144221","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"A Cinderella Story","url":"https:\/\/en.wikipedia.org\/wiki\/A_Cinderella_Story","sameAs":"http:\/\/www.wikidata.org\/entity\/Q276415","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q276415","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-12T20:13:29Z","dateModified":"2021-01-06T12:41:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/b\/b3\/Movie_poster_a_cinderella_story.jpg","headline":"2004 film by Mark Rosman"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1373"});});</script>
+</body></html>
