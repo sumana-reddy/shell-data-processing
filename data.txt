@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, minimum-scale=1 maximum-scale=1, user-scalable=0">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="author" content="Stanley Martin Homes">
+	<meta name="copyright" content="2016">
+	<meta name="robots" content="index, follow">
+	<title>New Single Family Home For Sale - The Sawyer II</title>
+
+	<link rel="stylesheet" href="/build/product.css?cb=1582741906228">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700&display=swap" rel="stylesheet">
+
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/all.js" integrity="sha384-BtvRZcyfv4r0x/phJt9Y9HhnN5ur1Z+kZbKVgzVBAlQZX4jvAuImlIz+bG7TS00a" crossorigin="anonymous"></script>
+
+	<script src="https://www.stanleymartin.com/images/GoogleMaps/1004.js" type="text/javascript"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsqTilpVniPHdism02hJiVt3VFk8yDQsg&callback=initMap" type="text/javascript"></script>
+
+	<script src="/jbcore/juicebox.js"></script>
+
+	<!-- Google Tag Manager -->
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'//www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-M6K4P7');
+	</script>
+	<!-- End Google Tag Manager -->
+</head>
+<body id="main-body" data-spy="scroll" data-target="#sub-navigation-menu" data-offset="112">
+	
+	
+	<style>
+		.cover-background-header {
+			background-image: url("/images/Projects/WEV/Products/001653/prodheader.jpg");
+			background-position: center center;
+		}
+	</style>
+	<header role="banner">
+		<nav class="navbar navbar-expand-sm fixed-top navbar-main" role="navigation">
+			<div class="container">
+				<a href="/default.asp" class="navbar-brand d-none d-lg-block" title="Stanley Martin Homes">
+					<img src="/img/logo/smh_logo.png" alt="Stanley Martin Homes" />
+				</a>
+				<a href="/default.asp" class="navbar-brand d-lg-none" title="Stanley Martin Homes">
+					<img src="/img/logo/smh_logo_mobile.png" alt="Stanley Martin Homes" />
+				</a>
+				<div class="d-none d-lg-block">
+					<ul class="navbar-nav mega-menu">
+						<li class="nav-item dropdown">
+							<a id="fyh" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" title="Homebuyer Resources">
+								Find Your Home
+								<i class="fas fa-caret-down" aria-hidden="true"></i>
+							</a>
+							<ul class="dropdown-menu mega-menu">
+								<li>
+									<div class="list-group list-group-flush">
+										<div class="row">
+											<div class="col-lg-12">
+												<div class="accordion" id="accordionStates">
+													<div class="card border-0">
+														<div class="row">
+															<div class="col-lg-6 pr-0">
+																<a class="list-group-item list-group-link" href="#" data-toggle="collapse" data-target="#georgia" aria-expanded="false" aria-controls="georgia" title="Georgia">
+																	Georgia
+																</a>
+																<div id="georgia" class="collapse" aria-labelledby="headingOne" data-parent="#accordionStates">
+																	<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1007" title="Atlanta" class="list-group-item">
+																		Atlanta
+																	</a>
+																</div>
+																<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1001" title="Maryland" class="list-group-item">
+																	Maryland
+																</a>
+
+																<a class="list-group-item list-group-link border-0" href="#" data-toggle="collapse" data-target="#ncarolina" aria-expanded="false" aria-controls="ncarolina" title="North Carolina">
+																	North Carolina
+																</a>
+																<div id="ncarolina" class="collapse" aria-labelledby="headingOne" data-parent="#accordionStates">
+																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1011" title="Charlotte" class="list-group-item">
+																		Charlotte
+																  </a>
+																  <a href="/our-communities/projectsallmetro.asp?MetroAreaID=1014" title="Coastal Carolina" class="list-group-item">
+																	Coastal Carolina
+																  </a>
+																  <a href="/our-communities/projectsallmetro.asp?MetroAreaID=1004" title="Raleigh" class="list-group-item">
+																		Raleigh
+																	</a>
+																	<a href="/our-communities/projectdetail.asp?ProjectGroupID=RE&MetroAreaID=1004" title="Wake Forest" class="list-group-item">
+																		Wake Forest
+																	</a>
+																</div>
+															  </div>
+															<div class="col-lg-6 pl-0">
+																<a class="list-group-item list-group-link" href="#" data-toggle="collapse" data-target="#scarolina" aria-expanded="false" aria-controls="scarolina" title="South Carolina">
+																	South Carolina
+																</a>
+																<div id="scarolina" class="collapse" aria-labelledby="headingOne" data-parent="#accordionStates">
+																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1013" title="Aiken & North Augusta" class="list-group-item">
+																		Aiken & North Augusta
+																	</a>
+																	<a href="/our-communities/projectdetail.asp?ProjectGroupID=47&MetroAreaID=1008" title="Bluffton" class="list-group-item">
+																		Bluffton
+																	</a>
+																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1008" title="Charleston" class="list-group-item">
+																		Charleston
+																	</a>
+																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1010" title="Columbia" class="list-group-item">
+																		Columbia
+																	</a>
+																	<a href="/our-communities/projectsallmetro.asp?MetroAreaID=1012" title="Greenville & Spartanburg" class="list-group-item">
+																		Greenville & Spartanburg
+																	</a>
+																</div>
+																<div class="card border-0">
+																	<a class="list-group-item list-group-link" href="#" data-toggle="collapse" data-target="#virginia" aria-expanded="false" aria-controls="virginia" title="Virginia">
+																		Virginia
+																	</a>
+																	<div id="virginia" class="collapse" aria-labelledby="headingOne" data-parent="#accordionStates">
+																		<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1003" title="Charlottesville" class="list-group-item">
+																			Charlottesville
+																		</a>
+																		<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1000" title="Northern Virginia" class="list-group-item">
+																			Northern Virginia
+																		</a>
+																		<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1006" title="Richmond" class="list-group-item">
+																			Richmond
+																		</a>
+																		<a href="/our-communities/projectdetail.asp?ProjectGroupID=KS&MetroAreaID=1006" title="Williamsburg" class="list-group-item">
+																			Williamsburg
+																		</a>
+																	</div>
+																</div>
+																<a href="/our-communities/Projectdetail.asp?ProjectGroupID=PEP&MetroAreaID=1009" title="West Viginia" class="list-group-item">
+																	West Virginia
+																</a>
+															</div>
+														</div>
+														<a href="/smcweb/Spec_SalesGrid.asp" title="Move-In-Ready" class="btn-pink mt-2 text-center list-group-item">
+															Move-In-Ready
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</li>
+						<li class="nav-item dropdown">
+							<a id="wwa" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" title="Who We Are">
+								Who We Are
+								<i class="fas fa-caret-down" aria-hidden="true"></i>
+							</a>
+							<ul class="dropdown-menu single-menu">
+								<li>
+									<div class="list-group list-group-flush">
+										<div class="row">
+											<div class="col-lg-12 pl-0 pr-2">
+												<div class="accordion" id="accordionWho">
+													<div class="card border-0">
+														<a class="list-group-item list-group-link" href="#" data-toggle="collapse" data-target="#aboutus" aria-expanded="false" aria-controls="aboutus" title="About Us">
+															About Us
+														</a>
+														<div id="aboutus" class="collapse" aria-labelledby="headingOne" data-parent="#accordionWho">
+															<a href="/smcweb/AboutSec.asp?SectionID=3&SubSectionID=38" title="Our Values" class="list-group-item">
+																Our Values
+															</a>
+															<a href="/smcweb/givingback.asp" title="Giving Back" class="list-group-item">
+																Giving Back
+															</a>
+															<a href="/smcweb/About.asp?SectionID=3" title="Our History" class="list-group-item">
+																Our History
+															</a>
+														</div>
+													</div>
+													<a class="list-group-item" href="/smcweb/aboutsec.asp?SectionID=3&SubSectionID=71" title="Our Companies">
+														Our Companies
+													</a>
+													<a href="/smcweb/AboutSec.asp?SectionID=3&SubSectionID=61" title="Testimonials" class="list-group-item">
+														Testimonials
+													</a>
+													<a href="/news/inthenews.asp" title="In The News" class="list-group-item d-none">
+														In The News
+													</a>
+													<a href="/smcweb/careers.asp" title="Careers" class="list-group-item">
+														Careers
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</li>
+						<li class="nav-item dropdown">
+							<a id="hbr" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" title="Homebuyer Resources">
+								Homebuyer Resources
+								<i class="fas fa-caret-down" aria-hidden="true"></i>
+							</a>
+							<ul class="dropdown-menu mega-menu">
+								<li>
+									<div class="list-group list-group-flush">
+										<div class="row">
+											<div class="col-lg-12">
+												<div class="accordion" id="accordionWho">
+													<div class="card border-0">
+														<div class="row">
+															<div class="col-lg-6 pr-0">
+																<a href="/smcweb/design.asp?SectionID=2" title="Design Center" class="list-group-item">
+																	Design Center
+																</a>
+																<a href="/smcweb/aboutsec.asp?SectionID=3&SubSectionID=70" title="Digital-Ready Home" class="list-group-item">
+																	Digital-Ready Home
+																</a>
+																<a href="/smcweb/greenliving.asp" title="Green Living" class="list-group-item">
+																	Green Living
+																</a>
+																<a href="/smcweb/homebuyer101.asp" title="Homebuyer 101" class="list-group-item">
+																	Homebuyer 101
+																</a>
+															</div>
+															<div class="col-lg-6 pl-0">
+																<a href="/smcweb/multi-gen-living.asp" title="Multi-Gen Living" class="list-group-item">
+																	Multi-Gen Living
+																</a>
+																<a href="/smcweb/mortgage.asp" title="Mortgage Calculator" class="list-group-item">
+																	Mortgage Calculator
+																</a>
+																<a href="/smcweb/AboutSec.asp?SectionID=3&SubSectionID=40" title="Videos" class="list-group-item d-none">
+																	Videos
+																</a>
+																<a href="/smcweb/aboutsec.asp?SectionID=7&SubSectionID=53" title="Warranty" class="list-group-item">
+																	Warranty
+																</a>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a id="blg" class="nav-link" href="/blog/at-home.asp" title="Blog">
+								@Homeblog
+							</a>
+						</li>
+						<li>
+							<a id="ctu" class="nav-link" href="/smcweb/contact-us.asp" title="Contact Us">
+								Contact Us
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="d-lg-none float-right">
+					<a id="mobile" class="btn btn-mobile clickable" href="#" data-toggle="modal" data-target="#menu-mobile">
+						<i class="fa fa-bars fa-1x" aria-hidden="true"></i>
+					</a>
+				</div>
+			</div>
+		</nav>
+		<div class="subhead">
+			<div class="subhead-container d-flex mx-auto flex-column">
+				<div class="breadcrumb-nav fixed-top" aria-label="breadcrumb">
+					<div class="container">
+						<ol class="breadcrumb">
+							
+							
+							
+							
+							<li class="breadcrumb-item">
+								<a href="/default.asp" title="Home">
+									<i class="fas fa-home"></i>
+								</a>
+							</li>
+							<li id="pageActive" class="breadcrumb-item">
+								<a href="/our-communities/ProjectsAllMetro.asp?MetroAreaID=1004">
+									Raleigh/Durham
+								</a>
+							</li>
+							<li class="breadcrumb-item text-truncate link">
+								<a href="/our-communities/ProjectDetail.asp?ProjectGroupID=WEV&MetroAreaID=1004">
+									The Residences at West Village                                                                                                                             
+								</a>
+							</li>
+							
+							
+							
+							
+							
+							<li class="breadcrumb-item text-truncate link active">
+								The Sawyer II
+							</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<section class="cover-container product-cover d-flex flex-column mx-auto">
+		<div class="cover-background-header"></div>
+		<div class="masthead mb-auto">
+			<div class="inner"></div>
+		</div>
+		<div class="container"></div>
+		<div class="mastfoot mt-auto">
+			<div class="cover-overlay-header">
+				<div class="col-lg-10 offset-lg-1">
+					<div class="cover-overlay-content text-left text-white font-weight-bold m-auto">
+						<div class="row">
+							<div class="col-lg-6">
+								<h1 class="pl-0 pt-3">
+									The Sawyer II
+								</h1>
+							</div>
+							<div class="col-lg-6">
+								<div class="d-flex justify-content-sm-start justify-content-lg-end h4 pt-3">
+									Priced From: $469,990
+								</div>
+							</div>
+						</div>
+						<hr class="spacer border-green w-100 mb-0">
+						<div class="row">
+							<div class="d-flex justify-content-start col-lg-6 h4 pt-3">
+								The Residences at West Village                                                                                                                             
+							</div>
+						</div>
+						<div class="row mt-3 bg-dark-blue">
+							<div class="col-lg-3 col-6">
+								<div class="d-flex justify-content-center text-white text-center">
+									<div class="pt-3">
+										<span class="float-left w-100">
+											<i class="fa fa-bed my-2 fa-2x"></i>
+										</span>
+										<span class="h6 font-weight-bold">
+											3
+										</span>
+										<br/>
+										<span class="font-weight-light">
+											Bedrooms
+										</span>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-3 col-6">
+								<div class="d-flex justify-content-center text-white text-center">
+									<div class="py-3">
+										<span class="float-left w-100">
+											<i class="fa fa-bath my-2 fa-2x"></i>
+										</span>
+										<span class="font-weight-bold">
+											2 Full
+										</span>
+										<span id="halfBathrooms" class="font-weight-bold">
+											1 Half
+										</span>
+										<span class="font-weight-light d-block w-100">
+											Bathrooms
+										</span>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-3 col-6">
+								<div class="d-flex justify-content-center text-white text-center">
+									<div class="py-3">
+										<span class="float-left w-100">
+											<i class="fa fa-warehouse my-2 fa-2x"></i>
+										</span>
+										<span class="h6 font-weight-bold">
+											2
+										</span>
+										<br/>
+										<span class="font-weight-light">
+											Garage
+										</span>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-3 col-6">
+								<div class="d-flex align-self-center justify-content-center text-white text-center">
+									<div class="py-3">
+										<span class="float-left w-100">
+											<i class="fas fa-vector-square my-2 fa-2x"></i>
+										</span>
+										<span class="h6 font-weight-bold">
+											Min 2461 -          Max 3479
+										</span>
+										<br/>
+										<span class="font-weight-light">
+											Sq. Ft.
+										</span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="subNavigation" class="p-0 d-none d-sm-none d-md-block d-xl-block">
+					<div class="container-fluid p-0">
+						<ul id="sub-navigation-menu" class="nav nav-tabs nav-justified">
+							<li class="overview-tab">
+								<a href="#introduction" class="nav-link" title="Introduction">
+									Overview
+								</a>
+							</li>
+							<li class="mediacenter-tab nav-item">
+								<a href="#media" class="nav-link" title="Media Center">
+									Media Center
+								</a>
+							</li>
+							<li class="nav-item">
+								<a href="#consultant" class="nav-link" title="Let's Talk">
+									Let's Talk
+								</a>
+							</li>
+							<li class="learnmore-tab">
+								<a class="nav-link btn-learnmore" href="#consult-info-a" data-toggle="modal" data-target="#consult-info" aria-haspopup="true" aria-expanded="false">
+									Learn More
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<main role="main">
+		<section id="introduction" class="section-body border-0 p-0 bg-white">
+			<div class="container-fluid">
+				<div class="row p-0">
+					<div class="section-text d-flex col-sm-12 col-lg-6 order-2 order-lg-1 py-5 pl-4 pr-4 justify-content-start justify-content-md-end">
+						<div class="align-self-center">
+							<h2>
+								Diverse Layout with Expansive Options
+							</h2>
+							<p>This home delivers on all levels. The first floor offers a diverse layout that includes an open-architecture kitchen, breakfast area, and great room space that also includes an optional deck to expand the space in warmer months. You can take it up a notch by adding the optional gourmet kitchen, morning room, and covered or screened porch. What a great space to entertain or just spread out if you have a large family.<br><br>The second floor is an oasis all its own. It comes as a standard 3-bedroom layout but you can add a fourth bedroom if you wish to enact that option. As you come to the top of the stairs, on the right, you&#39;ll see the spacious owner&#39;s bedroom with two walk-in closets. Inside the room, it&#39;s easy to imagine yourself enjoying your own sink in the separate bath, which also contains the second walk-in closet, a nice-size linen closet, and a small room with a private commode. There is a handy flex space at the back of the house that works as a media room, study area, or a spot for exercise equipment.</p>
+						</div>
+					</div>
+					<div id="slider-section" class="d-flex col-sm-12 col-lg-6 order-1 order-lg-2 p-0">
+						<div class="container-fluid">
+							<div class="d-none">
+								WEV 001653
+							</div>
+							<div id="slider-wrapper" class="row">
+								<script type="text/javascript">
+									function doLayoutSlider() {
+										var galleryWidth = parseInt($('#slider-section').width());
+										var galleryHeight = parseInt(galleryWidth / 1.5);
+										$('#slider-wrapper').width(galleryWidth);
+										$('#slider-wrapper').height(galleryHeight);
+									}
+									$(document).ready(function () {
+										doLayoutSlider();
+										$(window).resize(doLayoutSlider);
+										new juicebox({
+											//configUrl: "../images/Projects/PO/Products/A90/Media.xml",
+											configUrl: "../images/Projects/WEV/Products/001653/Elevations.xml",
+											themeURL: "../jbcore/classic/theme.css",
+											containerId: 'slider-container',
+											galleryWidth: '100%',
+											galleryHeight: '100%',
+											backgroundColor: 'transparent',
+
+											captionPosition: 'overlay',
+											galleryDescription: '',
+											addSEOContent: 'true',
+
+											showThumbsOnLoad: false,
+											showImageNav: 'always',
+											showImageOverlay: "always",
+											showImageNumber: "false",
+											showImageNav: "always",
+											showThumbsButton: "false",
+											showExpandButton: "false",
+											showOpenButton: "false",
+											showThumbsOnLoad: "false",
+											showSmallThumbsOnLoad: "false",
+											showSmallThumbsButton: "false",
+											showSmallPagingText: "false",
+											showImageNumber: true,
+
+											buttonBarBackColor: "rgba(0,0,0,0.5)",
+											imageShadowColor: "rgba(0,0,0,0.5)",
+
+											captionHAlign: "left",
+											captionBackTopColor: "rgba(0,0,0,0.5)",
+											captionBackColor: "rgba(0,0,0,0.5)",
+
+											imageVAlign: "center",
+											imageHAlign: "bottom",
+											imageNavPosition: "stage",
+											imageShadowColor: "rgba(255,255,255,0)",
+											imageTransitionType: "cross_fade",
+											imagePreloading: "next",
+											imageNavPadding: 15,
+											imageScaleMode: 'FILL',
+
+											galleryfontface: "Lato,Arial",
+											stagePadding: 0,
+
+											showPreloader: "false",
+											useThumbDots: "false",
+											enableAutoPlay: "false",
+											autoPlayOnLoad: "false",
+											showAutoPlayStatus: "false",
+											enableLooping: "false",
+											screenMode: "Large",
+										});
+									});
+								</script>
+								<div id="slider-container"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="gallery" class="section-body bg-light pt-5">
+			<div id="section-title" class="container">
+				<div class="col-lg-10 offset-lg-1">
+					<div class="text-center">
+						<div class="h3 text-uppercase font-weight-bold text-blue">
+							Gallery
+						</div>
+						<hr class="spacer">
+					</div>
+				</div>
+			</div>
+			<div id="gallery-section" class="container pt-2 pb-4">
+				<div class="d-none">
+					WEV 001653
+				</div>
+				<div id="gallery-wrapper">
+					<script type="text/javascript">
+						function doLayoutGallery() {
+							var galleryWidth = parseInt($('#gallery-section').width());
+							var galleryHeight = parseInt(galleryWidth /1.7);
+							$('#gallery-wrapper').width(galleryWidth);
+							$('#gallery-wrapper').height(galleryHeight);
+						}
+						$(document).ready(function () {
+							doLayoutGallery();
+							$(window).resize(doLayoutGallery);
+							new juicebox({
+								//configUrl: "../projects/PO/Products/A90/Media.xml",
+								configUrl: "../images/Projects/WEV/Products/001653/Media.xml",
+								themeURL: "../jbcore/classic/theme.css",
+								containerId: 'gallery-container',
+								galleryWidth: '100%',
+								galleryHeight: '100%',
+								backgroundColor: 'transparent',
+
+								galleryDescription: '',
+								addSEOContent: 'true',
+
+								showThumbsOnLoad: false,
+								showImageNav: 'always',
+								showImageOverlay: "always",
+								showImageNumber: "false",
+								showImageNav: "always",
+								showThumbsButton: "false",
+								showExpandButton: "false",
+								showOpenButton: "false",
+								showThumbsOnLoad: "false",
+								showSmallThumbsOnLoad: "false",
+								showSmallThumbsButton: "false",
+								showSmallPagingText: "false",
+								showImageNumber: true,
+
+								buttonBarBackColor: "rgba(0,0,0,0.4)",
+								imageShadowColor: "rgba(0,0,0,0)",
+
+								captionPosition: 'OVERLAY_IMAGE',
+								captionHAlign: "left",
+								captionBackTopColor: "rgba(0,0,0,0.5)",
+								captionBackColor: "rgba(0,0,0,0.5)",
+								textColor: "rgba(255,255,255,1)",
+								textShadowColor: "rgba(0,0,0,0)",
+								maxCaptionHeight: 50,
+
+								imageVAlign: "bottom",
+								imageHAlign: "center",
+								imageNavPosition: "stage",
+								imageShadowColor: "rgba(255,255,255,0)",
+								imageTransitionType: "cross_fade",
+								imagePreloading: "next",
+								imageNavPadding: 15,
+								imageScaleMode: 'FILL',
+
+								galleryfontface: "Lato,Arial",
+								stagePadding: 0,
+
+								showPreloader: "false",
+								useThumbDots: "false",
+								enableAutoPlay: "false",
+								autoPlayOnLoad: "false",
+								showAutoPlayStatus: "false",
+								enableLooping: "false",
+								screenMode: "Large",
+							});
+						});
+					</script>
+					<div id="gallery-container"></div>
+				</div>
+			</div>
+		</section>
+		<section id="media" class="section-body pt-0 pb-2 bg-light border-0">
+			<nav id="menu-section-tabs" class="row m-0 bg-dark-blue pt-5">
+				<div id="section-title" class="container-fluid">
+					<div class="col-lg-10 offset-lg-1">
+						<div class="text-center">
+							<div class="h3 text-uppercase text-white font-weight-bold">
+								Media Center
+							</div>
+							<hr class="spacer border-white">
+						</div>
+					</div>
+				</div>
+
+				<div id="menu-tabs" class="m-auto">
+					<ul class="list-group list-group-horizontal" id="list-tab" role="listview">
+						<li id="floorplan-view-list" class="list-group-item flex-fill bg-none border-0">
+							<button type="button" class="btn btn-link btn-block active" data-toggle="list" href="#floorplan-view" role="tab" aria-controls="list-view">
+								<span class="d-block">
+									Floorplan
+								</span>
+							</button>
+						</li>
+						<li id="virtual-view-list" class="list-group-item flex-fill bg-none border-0">
+							<button type="button" class="btn btn-link btn-block" id="virtual-view-list" data-toggle="list" href="#virtual-view" role="tab" aria-controls="virtual-view">
+								<span class="d-block">
+									Virtual Tour
+								</span>
+							</button>
+						</li>
+						<li id="video-view-list" class="list-group-item flex-fill bg-none border-0">
+							<button type="button" class="btn btn-link btn-block" id="video-view-list" data-toggle="list" href="#video-view" role="tab" aria-controls="video-view">
+								<span class="d-block">
+									Video
+								</span>
+							</button>
+						</li>
+					</ul>
+				</div>
+			</nav>
+			<div class="tab-content">
+				<div class="tab-pane fade show active" id="floorplan-view" role="tabpanel" aria-labelledby="floorplan-view-list">
+					<div id="floorplanSrc" class="container pl-0 pr-0 mt-2" style="max-width:1450px">
+						<iframe id="comFloorplan" src="https://contradovip.com/stanley-martin/1004/wev/001653/" class="vip-frame mt-4 mb-3" frameborder="0" scrolling="no" width="1450" height="720"></iframe>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="virtual-view" role="tabpanel" aria-labelledby="virtual-view-list">
+					<div class="container pl-0 pr-0">
+						<iframe id="comvirTour" class="mt-4 mb-3" src="" allowfullscreen="yes" width="1140" height="640" frameborder="0"></iframe>
+					</div>
+				</div>
+				<div class="tab-pane fade" id="video-view" role="tabpanel" aria-labelledby="video-view-list">
+					<div class="container pl-0 pr-0">
+						<iframe id="comVideo" class="mt-4 mb-3" src="" allowfullscreen="yes" width="1140" height="640" frameborder="0"></iframe>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="consultant" class="section-body bg-light-blue">
+			<div class="container">
+				<div class="col-lg-12">
+					<div class="text-center m-auto pb-3">
+						<div class="h3 text-uppercase font-weight-bold text-white">
+							Let's Talk
+						</div>
+						<hr class="spacer border-white">
+					</div>
+				</div>
+				
+				
+				
+				
+				<div class="col-lg-9 m-auto">
+					<div class="card">
+						<div class="card-body">
+							<div class="row">
+								<div class="col-lg-3 d-flex py-2">
+									<div class="align-self-center m-auto">
+										<img src="/images/SalesAgents/78.jpg" class="img-fluid rounded-circle" />
+									</div>
+								</div>
+								<div class="col-lg-9 d-flex">
+									<div class="align-self-center text-lg-left text-center">
+										<p class="mb-2">
+											<p>Hi, I&rsquo;m Lisa! Did you know you can now tour our homes and meet with our team virtually? If you have any questions about our virtual tours, communities, home designs, or locations- just ask! One of our team members would love to talk to you.</p>
+										</p>
+										<button type="button" data-toggle="modal" data-target="#consult-info" class="btn btn-success mt-1">
+											<i class="fas fa-envelope mr-1"></i>
+											Contact
+										</button>
+										<a href="tel:919-679-4585" class="btn btn-secondary mt-1" title="Office Number">
+											<i class="fas fa-phone-square mr-1" data-fa-transform="flip-h" aria-hidden="true"></i>
+											Call 919-679-4585
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Consult Modal -->
+				<div id="consult-info" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="consultInfo" aria-hidden="true">
+					<div class="modal-dialog modal-md modal-dialog-centered" role="document">
+						<div class="modal-content">
+							<div class="bg-dark-blue text-white rounded-top">
+								<div class="row pb-4">
+									<div class="col-lg-12">
+										<a data-dismiss="modal" href="#" class="btn btn-link float-right">
+											<i class="fa fa-times fa-2x" aria-hidden="true"></i>
+										</a>
+									</div>
+									<div class="col-lg-3 col-sm-12 d-flex">
+										<div class="align-self-center text-center m-auto pl-3 pr-3">
+											<img src="/images/SalesAgents/78.jpg" class="img-fluid rounded-circle m-3" />
+										</div>
+									</div>
+									<div class="col-lg-9 col-sm-12 d-flex">
+										<div class="align-self-center text-center text-lg-left w-100">
+											<h5 class="modal-title font-weight-bold h3">Let's Talk</h5>
+											<p>We're here to answer any questions.</p>
+											<hr class="border border-light-blue justify-content-center w-75 d-none d-sm-none d-md-none d-lg-block" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="modal-body p-0">
+								<iframe src="https://go.pardot.com/l/843863/2020-02-13/mdt4vs?&MetroAreaID=1004&CampaignCode=1&CampaignID=1&Neighborhood=The Residences at West Village                                                                                                                             &Form_Name=Product_Consult_Contact&Trn_ProjectGroupID=WEV&Trn_MetroAreaID=1004&Trn_ProjectGroupID=WEV&Trn_CampaignCode=1&Trn_CampaignID=1" width="100%" height="425" type="text/html" frameborder="0" scrolling="no" allowTransparency="false" class="pl-3 pr-3 pb-0 pt-3 bg-light"></iframe>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				
+				
+				
+				
+			</div>
+		</section>
+	</main>
+	<footer id="footer" role="contentinfo">
+		<div id="footermenuInc">
+			<script>
+				$("#footermenuInc").load("/inc/footermenu.html");
+			</script>
+		</div>
+		<div class="container">
+			<div class="col-lg-12 text-center">
+				<a href="#main-body" class="text-uppercase btn text-white btn-secondary rounded-0">
+					Back to Top
+					<i class="fas fa-chevron-up ml-1"></i>
+				</a>
+			</div>
+		</div>
+		<div class="policy">
+			<ul id="policy-links" class="list-inline">
+				<li class="list-inline-item">
+					<a href="/smcweb/terms.asp" title="Terms of Use">
+						Terms of Use
+					</a>
+				</li>
+				<li class="list-inline-item">
+					<a href="/smcweb/privacy.asp" title="Privacy Statement">
+						Privacy Statement
+					</a>
+				</li>
+				<li class="list-inline-item">
+					<a target="_blank" href="/smcweb/contact-us.asp" title="Contact Us">
+						Contact Us
+					</a>
+				</li>
+				<li class="list-inline-item border-right-0">
+					<i class="search-icon fas fa-registered" aria-hidden="true"></i>
+					Maryland Home Builder Registration No. 3588
+					<img class="img-fluid ml-3" src="/img/logo/eho_logo.png" width="20px" alt="Equal Housing Opportunity" />
+				</li>
+			</ul>
+		</div>
+		<div class="copyright">
+			<div class="col-lg-12">
+				<i class="far fa-copyright"></i>
+				<script type="text/javascript"> document.write(new Date().getFullYear())</script> Stanley Martin Homes. All rights reserved.
+			</div>
+		</div>
+		<div id="mobilemenuInc">
+			<script>
+				$("#mobilemenuInc").load("/inc/mobilemenu.html");
+			</script>
+		</div>
+	</footer>
+	<script src="/js/homedesigns.js?cb=1582741906228" type="text/javascript"></script>
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-M6K4P7" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+</body>
+</html>
